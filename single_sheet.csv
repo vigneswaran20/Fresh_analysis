@@ -1,0 +1,1646 @@
+,si_no,head,date,time,place,complainant_vehicle,opposite_vehicle,male_injury,female_injury,male_fatal,female_fatal,total_cases,age_1,age_2,age_3,age_4,age_5,age_6,age_7,age_8,age_9,age_10,male _fatal,...23,...24,...25
+1,18,Fatal,05-04-2010 00:00,17.45,Chekkarapatty,Self fall,"Van 
+",NA,NA,1,NA,1,NA,NA,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,28,Fatal,13-05-2010 00:00,19,Kurinchi School,Pedestrian,Unknown Vechile,NA,NA,1,NA,1,NA,NA,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3,19,Simple,06-03-2010 00:00,7,"
+Thoppur Kanavai
+",Self fall,"lorry 
+
+",1,NA,NA,NA,1,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4,16,Fatal,03-04-2010 00:00,8.3,Anchaneyar,"Lorry
+
+","lorry 
+
+",NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5,7,Fatal,01-02-2010 00:00,10,Anchaneyar,Lorry,Unknown Vechile,NA,NA,1,NA,1,NA,NA,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6,22,Simple,06-04-2010 00:00,9,Anchaneyar,"Car
+
+","Lorry 
+
+",3,NA,NA,NA,3,34,45,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7,1,Simple,02-01-2010 00:00,3.3,Anchaneyar,"Car
+
+","car
+
+",2,NA,NA,NA,2,27,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8,2,Simple,08-01-2010 00:00,3.15,Anchaneyar,"Bus
+","lorry
+",2,NA,NA,NA,2,40,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9,4,Fatal,20-01-2010 00:00,9,Boorickal,Lorry,"lorry
+",NA,NA,1,NA,1,NA,NA,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10,65,Simple,16-11-2010 00:00,19.3,"Bus stand,
+Thombakaram
+Patti,Salem to dharmapuri road,
+Road,
+",Self fall,"Bus
+
+",1,NA,NA,NA,1,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11,66,Fatal,21-11-2010 00:00,15.3,"Bus stop,
+Bahalahalli.
+Dharmapuri to Salem road.
+",Pedestrian,"Lorry
+
+",NA,NA,1,NA,1,NA,NA,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,15,Fatal,05-03-2010 00:00,19.5,"checkpost
+",Pedestrian,"Bus
+
+",NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13,25,Simple,03-05-2010 00:00,13.25,"Checkpost
+","Two Wheeler
+
+","Bus 
+
+",1,NA,NA,NA,1,53,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14,39,Simple,21-06-2010 00:00,13,Anchinayer Kovil,"Car
+
+","Lorry
+
+",1,NA,NA,NA,1,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+15,43,Simple,03-07-2010 00:00,2.15,Anchinayer Kovil,"lorry 
+
+","Lorry
+
+",1,NA,NA,NA,1,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16,33,Simple,23-05-2010 00:00,8.3,"Murugan Tea stall, Sivadi.","Hero Honda Splendor plus
+
+","Lorry
+
+",1,NA,NA,NA,1,38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17,55,Fatal,09-10-2010 00:00,7.3,Kattamedu,Self fall,"Lorry
+
+",NA,NA,1,NA,1,NA,NA,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18,3,Simple,16-01-2010 00:00,22,Kurunchi Nagar,Cyclist,"Car
+",1,NA,NA,NA,1,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19,73,Fatal,20-12-2010 00:00,17.3,Boorikkal,"lorry. 
+","Car 
+
+
+",NA,NA,1,NA,1,NA,NA,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20,75,Simple,23-12-2010 00:00,5,"Anchaneyar Kovil
+",Self fall,"lorry 
+
+",2,NA,NA,NA,2,32,NA,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21,68,Simple,03-12-2010 00:00,11.3,"Anchaneyar Kovil
+",Bus,"Tailor. 
+
+",1,NA,NA,NA,1,52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22,54,Simple,21-09-2010 00:00,1.3,"Anchaneyar Kovil
+",Lorry,"Lorry
+
+",1,NA,NA,NA,1,43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23,53,Non,16-09-2010 00:00,19.3,"Anchaneyar Kovil
+","Bus
+","Lorry
+
+",NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24,42,Simple,15-07-2010 00:00,20.3,"Anchaneyar Kovil
+",Car,Unknown Vechile,1,NA,NA,NA,1,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25,49,Grives,09-07-2010 00:00,7,"Anchaneyar Kovil
+",Car,"Lorry
+
+",1,NA,NA,NA,1,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26,60,Fatal,03-10-2010 00:00,NA,"Anchaneyar Kovil
+","Pedestrian 
+
+","lorry 
+
+",NA,NA,1,NA,1,NA,NA,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27,70,Simple,18-12-2010 00:00,8.3,"Anchaneyar Kovil
+",Cyclist,"Lorry
+",1,NA,NA,NA,1,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+28,58,Simple,21-10-2010 00:00,23,lakshmi Mill,"Lorry
+
+",Lorry,1,NA,NA,NA,1,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+29,46,Simple,03-08-2010 00:00,19.3,"Boyarkottai,
+Palayampudur 
+",Pedestrian,Two Wheeler,1,NA,NA,NA,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+30,69,Simple,04-11-2010 00:00,4,Kengalapuram,Pedestrian,Unknown Vechile,1,NA,NA,NA,1,52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+31,64,Simple,05-11-2010 00:00,7,BSNL tower,"Two wheeler
+
+","Lorry
+
+
+",2,NA,NA,NA,2,17,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+32,48,Simple,08-08-2010 00:00,18.3,"
+Poorikkal.
+","Car 
+
+","Car
+",NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33,50,Simple,10-08-2010 00:00,17,"
+Thombakampatty.
+
+",Pedestrian,"Lorry
+
+
+",1,NA,NA,NA,1,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+34,67,Fatal,23-11-2010 00:00,12.3,"Gengalapuram bus stop,",Pedestrian,"Car
+
+
+",NA,NA,1,NA,1,NA,NA,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35,59,Fatal,01-10-2010 00:00,12.15,Kamatchiyamman Temple,"Two Wheeler
+
+",Unknown Vechile,NA,NA,1,NA,1,NA,NA,39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+36,44,Fatal,03-08-2010 00:00,7.45,Kattamedu bus stop,"lorry 
+","lorry  
+
+
+",NA,NA,1,NA,1,NA,NA,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+37,34,Simple,05-05-2010 00:00,19,Kurinchi Nagar Check Post,"lorry 
+",Two Wheeler,1,NA,NA,NA,1,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+38,74,Simple,23-12-2010 00:00,5,Lakshminarayana Polytechnic college,"Pedestrian 
+","Car 
+
+
+",2,NA,NA,NA,2,23,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+39,52,Simple,12-08-2010 00:00,22,"Paghalahalli
+",Pedestrian,Two Wheeler,1,NA,NA,NA,1,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+40,41,Simple,13-07-2010 00:00,17,Palayam Puthur,Pedestrian,Two Wheeler,1,NA,NA,NA,1,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+41,56,Grives,14-10-2010 00:00,20,Palayam Puthur,"Bus
+
+",Lorry,1,NA,NA,NA,1,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,63,Simple,02-10-2010 00:00,9,Palayam Puthur,Pedestrian,Two Wheeler,NA,1,NA,NA,1,NA,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+43,45,Fatal,03-08-2010 00:00,19,"
+Vellaikkal",Pedestrian,"Car 
+
+",NA,NA,1,NA,1,NA,NA,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+44,35,Simple,07-06-2010 00:00,9,"Refuges camp, Madhukottai
+",Self fall,Lorry,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+45,36,Simple,17-06-2010 00:00,19,"RM Thirumana-mandapam,Thoppur
+","Two Wheeler
+
+","Van
+
+",1,NA,NA,NA,1,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46,62,Simple,06-10-2010 00:00,18.3,Savulur bus stop,Pedestrian,Two Wheeler,1,NA,NA,NA,1,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+47,38,Simple,19-06-2010 00:00,19,"Siddhan’s house.
+
+","Two wheeler
+
+","van
+
+",2,NA,NA,NA,2,55,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+48,61,Simple,06-10-2010 00:00,4.3,"Thombarakampatti
+","lorry 
+
+","lorry 
+",2,NA,NA,NA,2,29,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+49,71,Simple,18-12-2010 00:00,2,Thoppur bus stop,Pedestrian,"Bus. 
+
+",1,NA,NA,NA,1,43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+50,76,Simple,03-12-2010 00:00,17.45,Vellaikal bus stop,Pedestrian,"Car
+
+",1,1,NA,NA,2,62,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+51,40,Simple,09-07-2010 00:00,1.3,Vellaikal bus stop,"Lorry
+",Lorry,1,NA,NA,NA,1,43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+52,57,Simple,17-10-2010 00:00,12.2,Vellaikal bus stop,"Two Wheeler
+
+","Car
+
+",1,NA,NA,NA,1,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+53,37,Simple,18-06-2010 00:00,21,"Opposite Murugan Home,
+MGR Nagar","Two Wheeler
+",Two Wheeler,2,NA,NA,NA,2,23,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+54,26,Fatal,07-05-2010 00:00,8,Pachiyappan Kottai,Self fall,"Tractor 
+
+",NA,NA,1,NA,1,NA,NA,36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+55,8,Fatal,04-02-2010 00:00,9,"Pagalpatty
+",Pedestrian,Two wheeler,NA,NA,1,NA,1,NA,NA,85,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+56,72,Fatal,19-12-2010 00:00,21,Palayampudur junction road,Pedestrian,"Lorry
+
+",NA,NA,1,35,36,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+57,47,Simple,04-08-2010 00:00,12.3,Palayamputhur junction road,"Auto
+
+","Car 
+
+",1,NA,NA,NA,1,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+58,11,Simple,11-03-2010 00:00,1.3,Poorikal Checkpost,"Lorry
+
+",Unknown Vechile,1,NA,NA,NA,1,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+59,30,Fatal,22-05-2010 00:00,1.3,Poorikal Checkpost,"Lorry
+
+","Lorry
+
+",NA,NA,1,NA,1,NA,NA,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+60,32,Simple,07-05-2010 00:00,22.3,Poorikal Checkpost,"Lorry
+
+",Bus,2,NA,NA,NA,2,25,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+61,51,Fatal,01-08-2010 00:00,15,Porisalkattamedu,Self fall,Two Wheeler,NA,NA,1,NA,1,NA,NA,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+62,17,Fatal,03-04-2010 00:00,23.05,Sani Sandhai,"Car
+
+","Lorry
+
+",2,NA,4,1,7,2,25,NA,30,30,30,31,30,NA,NA,NA,NA,NA,NA
+63,31,Simple,01-05-2010 00:00,0.15,Sani Sandhai,"Car
+
+","Van
+
+",1,NA,NA,NA,1,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+64,6,Fatal,04-01-2010 00:00,13.3,Sani Sandhai,Two Wheeler,"Car
+
+",NA,NA,1,NA,1,NA,NA,46,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+65,27,Fatal,11-05-2010 00:00,9.15,Savulur,Pedestrian,"Lorry
+
+",NA,NA,NA,1,1,NA,NA,NA,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+66,20,Simple,14-01-2010 00:00,19,Savulur,NA,"Lorry
+
+",1,NA,NA,NA,1,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+67,12,Simple,20-03-2010 00:00,9.15,Savulur,Pedestrian,"Car
+
+",1,NA,NA,NA,1,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+68,29,Simple,16-05-2010 00:00,18.3,Savulur,"auto 
+","Bus 
+
+",1,NA,NA,NA,1,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+69,13,Simple,21-03-2021 00:00,23,Sesampatty,Pedestrian,"Car 
+
+",1,NA,NA,NA,1,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+70,14,Simple,04-03-2010 00:00,9,Savulur,Pedestrian,"Bus
+
+",1,NA,NA,NA,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+71,21,Grives,22-04-2010 00:00,17.15,"Thombarakampatti bus stop
+",Two Wheeler,"Car 
+
+",2,NA,NA,NA,2,30,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+72,10,Simple,07-03-2010 00:00,18,"Thombarakampatty bus stop
+.
+",Two wheeler,Two Wheeler,1,NA,NA,NA,1,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+73,23,Simple,04-04-2010 00:00,13,Vellaikal,Self fall,"BUS 
+",1,NA,NA,NA,1,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+74,24,Simple,04-05-2010 00:00,4,Vellaikal,"Lorry 
+
+","Lorry
+
+",2,NA,NA,NA,2,38,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+75,5,Fatal,01-01-2010 00:00,15.3,Vellakkal,Pedestrian,"Car 
+
+",NA,NA,1,NA,1,NA,NA,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+76,3,Fatal,13-01-2011 00:00,17.3,Vellakal,two wheeler,car,1,NA,1,NA,2,25,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77,34,Fatal,19-04-2011 00:00,16.15,Vellakal,Pedestrian,car,NA,NA,NA,1,1,NA,NA,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+78,30,Simple,06-04-2011 00:00,9.3,Kurunchi Nagar,Passenger,bus,NA,1,NA,NA,1,NA,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+79,48,Simple,12-06-2011 00:00,15,Sesampatty junction.,unknown,bus,4,NA,NA,NA,4,24,25,28,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+80,12,Fatal,16-01-2011 00:00,11.3,Sesampatty junction.,two wheeler,car,NA,NA,1,NA,1,NA,NA,65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+81,79,Simple,30-10-2011 00:00,10,Poovalmaduvu,Auto,Van,NA,1,NA,NA,1,NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+82,18,Simple,16-02-2011 00:00,11.3,kattamedu,bus,lorry,1,1,NA,NA,2,35,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+83,33,Fatal,13-04-2011 00:00,17,water tank,Self fall,two wheeler,NA,NA,1,NA,1,NA,NA,36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+84,40,Fatal,18-05-2011 00:00,24,Vellakkal,Lorry,lorry,NA,NA,1,NA,1,NA,NA,53,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+85,2,Fatal,01-12-2015 00:00,6.3,NA,Pedestrian,unknown,NA,NA,1,NA,1,NA,NA,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+86,80,Simple,31-10-2011 00:00,9.3,Toll Gate,Pedestrian,unknown,1,NA,NA,NA,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+87,90,Fatal,21-12-2011 00:00,23.3,Toll Gate,Pedestrian,unknown,NA,NA,1,NA,1,NA,NA,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+88,89,Simple,16-12-2011 00:00,11.3,Thrugaiyamman Temple,two wheeler,Tractor.,1,NA,NA,NA,1,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+89,15,Simple,24-01-2011 00:00,21.45,Thoppur speed break,lorry,lorry,1,NA,NA,NA,1,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+90,29,Simple,31-03-2011 00:00,17.45,Kanavai,car,bus,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+91,22,Simple,04-03-2011 00:00,23.45,toll gate,car,lorry,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+92,68,Simple,06-09-2011 00:00,16.3,Thombarakkampatty,Lorry,lorry,1,NA,NA,NA,1,52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+93,87,Fatal,11-12-2011 00:00,22,Thombarakkampatty,two wheeler,lorry,1,1,1,NA,3,32,25,1.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+94,13,Simple,15-01-2011 00:00,11,Thandukarampatti bus stop,Pedestrian,two wheeler,1,NA,NA,NA,1,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+95,27,Fatal,20-03-2011 00:00,2.3,Seshampatty,Pedestrian,unknown,NA,NA,1,NA,1,NA,NA,38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+96,1,Fatal,10-01-2015 00:00,6.3,Savulur bus stop,Pedestrian,unknown,NA,NA,NA,1,1,NA,NA,58,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+97,61,Simple,02-08-2011 00:00,11,Sanisandhai,two wheeler,lorry,1,NA,NA,NA,1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+98,57,Simple,24-07-2011 00:00,17.3,Sanisandhai,Pedestrian,two wheeler,1,NA,NA,NA,1,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+99,51,Fatal,19-06-2011 00:00,2,Sanisandhai,bus,car,3,NA,1,NA,4,38,45,40,NA,39,NA,NA,NA,NA,NA,NA,NA,NA,NA
+100,38,Fatal,03-05-2011 00:00,15,Rajalakshmi Petrol bunk,Passenger,car,NA,NA,1,NA,1,NA,NA,52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+101,77,Simple,11-10-2011 00:00,17,Poorikkal water tank,Self fall,two wheeler,1,NA,NA,NA,1,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+102,14,Fatal,19-01-2011 00:00,3.45,Poorikkal speed break,Self fall,car,6,NA,1,NA,7,NA,NA,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+103,86,Fatal,11-12-2011 00:00,11.3,Poolamaduvu JN road,Pedestrian,Van,NA,1,NA,NA,1,NA,68,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+104,58,Grives,06-07-2011 00:00,20,Petrol bunk,two wheeler,lorry,1,NA,NA,NA,1,46,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+105,36,Simple,18-04-2011 00:00,15.15,Perumal Kovil,two wheeler,lorry,1,NA,NA,NA,1,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+106,60,Simple,02-08-2011 00:00,7.2,Perumal Kovil,two wheeler,Car,2,NA,NA,NA,2,37,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+107,25,Grives,15-03-2011 00:00,4.3,Perumal Kovil,car,lorry,3,NA,NA,NA,3,39,35,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+108,42,Simple,26-05-2011 00:00,9.3,Perumal Kovil,Pedestrian,lorry,1,NA,NA,NA,1,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+109,52,Simple,21-06-2011 00:00,20.3,Perumal Kovil,Pedestrian,bus,1,NA,NA,NA,1,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+110,50,Simple,15-06-2011 00:00,15,Perumal Kovil,Pedestrian,lorry,1,NA,NA,NA,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+111,21,Simple,24-02-2011 00:00,20.3,Perumal Kovil,Pedestrian,van,1,NA,NA,NA,1,39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+112,74,Simple,24-09-2011 00:00,14.3,Perumal Kovil,two wheeler,Tractor,1,1,NA,NA,2,43,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+113,76,Grives,23-09-2011 00:00,13,Perumal Kovil,Passenger,car,1,4,NA,NA,5,55,45,60,60,60,NA,NA,NA,NA,NA,NA,NA,NA,NA
+114,19,Simple,22-02-2011 00:00,20.45,Perumal Kovil,Lorry,bus,3,2,NA,NA,5,70,20,69,22,28,NA,NA,NA,NA,NA,NA,NA,NA,NA
+115,75,Grives,25-09-2011 00:00,12.3,Perumal Kovil,Pedestrian,lorry,1,NA,NA,NA,1,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+116,63,Grives,11-08-2011 00:00,19,Perumal Kovil,two wheeler,two wheeler,1,NA,NA,NA,1,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+117,16,Simple,31-01-2011 00:00,9.45,Perumal Kovil,Cyclist,two wheeler,1,NA,NA,NA,1,65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+118,39,Simple,16-05-2011 00:00,10.3,Perumal Kovil,van,lorry,1,NA,NA,NA,1,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+119,70,Simple,09-09-2011 00:00,20.45,Perumal Kovil,Pedestrian,car,1,NA,NA,NA,1,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+120,46,Fatal,02-06-2011 00:00,2.15,Perumal Kovil,Self fall,two wheeler,NA,NA,1,NA,1,NA,NA,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+121,69,Simple,06-09-2011 00:00,8.3,Perumal Kovil,two wheeler,Bus,3,NA,NA,NA,3,19,19,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+122,47,Simple,03-06-2011 00:00,16.4,Perumal Kovil,two wheeler,lorry,2,NA,NA,NA,2,18,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+123,72,Fatal,19-09-2011 00:00,11,Perumal Kovil,Passenger,unknown,NA,NA,1,NA,1,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+124,62,Simple,08-08-2011 00:00,17,Perumal Kovil,two wheeler,two wheeler,1,1,NA,NA,2,32,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+125,66,Simple,19-08-2011 00:00,3,Perumal Kovil,van,Bus,5,NA,NA,NA,5,50,26,35,25,20,NA,NA,NA,NA,NA,NA,NA,NA,NA
+126,26,Simple,16-03-2011 00:00,13.3,Perumal Kovil,two wheeler,Car,1,NA,NA,NA,1,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+127,49,Simple,12-06-2011 00:00,20,Perumal Kovil,Pedestrian,two wheeler,1,NA,NA,NA,1,65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+128,45,Simple,28-05-2011 00:00,8,Perumal Kovil,Pedestrian,car,1,NA,NA,NA,1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+129,85,Simple,07-12-2011 00:00,16.3,Perumal Kovil,Pedestrian,Tractor,1,NA,NA,NA,1,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+130,28,Grives,22-03-2011 00:00,22,Perumal Kovil,Self fall,lorry,1,NA,NA,NA,1,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+131,84,Simple,05-12-2011 00:00,20.3,Perumal Kovil,two wheeler,lorry,1,NA,NA,NA,1,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+132,43,Simple,26-05-2011 00:00,18.15,Perumal Kovil,Passenger,unknown,NA,3,NA,NA,3,NA,25,26,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+133,88,Fatal,13-12-2011 00:00,10.3,Perumal Kovil,two wheeler,lorry,NA,NA,2,NA,2,NA,NA,42,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+134,20,Simple,23-02-2011 00:00,7.3,Perumal Kovil,Self fall,lorry,1,NA,NA,NA,1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+135,24,Fatal,12-03-2011 00:00,20.45,Perumal Kovil,Self fall,bus,NA,NA,1,NA,1,NA,NA,41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+136,23,Simple,06-03-2011 00:00,11.3,Perumal Kovil,Lorry,lorry,1,NA,NA,NA,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+137,59,Fatal,01-08-2011 00:00,9.3,Perumal Kovil,Passenger,lorry,NA,NA,1,NA,1,NA,NA,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+138,41,Fatal,23-05-2011 00:00,18.45,Perumal Kovil,Self fall,lorry,NA,NA,1,NA,1,NA,NA,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+139,37,Simple,24-04-2011 00:00,21.3,Perumal Kovil,car,lorry,4,3,NA,NA,7,37,40,45,48,35,36,38,NA,NA,NA,NA,NA,NA,NA
+140,17,Simple,05-02-2011 00:00,17,Perumal Kovil,van,lorry,1,NA,NA,NA,1,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+141,91,Simple,26-12-2011 00:00,20.3,Perumal Kovil,van,lorry,1,NA,NA,NA,1,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+142,83,Simple,03-12-2011 00:00,23.3,Perumal Kovil,Lorry,lorry,2,NA,NA,NA,2,30,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+143,32,Fatal,12-04-2011 00:00,19.3,Perumal Kovil,Pedestrian,unknown,NA,NA,1,NA,1,NA,NA,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+144,31,Simple,14-04-2011 00:00,19.3,Perumal Kovil,car,lorry,2,2,1,NA,5,20,30,40,23,20,NA,NA,NA,NA,NA,NA,NA,NA,NA
+145,56,Simple,22-07-2011 00:00,7.3,Perumal Kovil,Self fall,car,NA,2,NA,NA,2,NA,35,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+146,73,Simple,23-09-2011 00:00,4.3,Perumal Kovil,Passenger,lorry,2,NA,NA,NA,2,34,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+147,44,Simple,30-05-2011 00:00,3.3,Kattamedu speed break,car,van,4,NA,NA,NA,4,31,30,35,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+148,67,Simple,05-09-2011 00:00,3,Kattamedu speed break,car,car,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+149,55,Simple,05-07-2011 00:00,17,Shanmugam Ayyar house,Pedestrian,two wheeler,1,NA,NA,NA,1,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+150,54,Simple,23-06-2011 00:00,14,Madhaiyan house,two wheeler,car,1,NA,NA,NA,1,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+151,82,Simple,01-12-2011 00:00,22.3,Lakshmi Narayana Polytechnic,Lorry,lorry,1,NA,NA,NA,1,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+152,78,Fatal,30-10-2011 00:00,22.3,Bakery pudur,Pedestrian,Bus,NA,NA,1,NA,1,NA,NA,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+153,35,Fatal,20-04-2011 00:00,8.15,Anjaneyar kovil,Lorry,lorry,NA,NA,1,NA,1,NA,NA,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+154,92,Fatal,31-12-2011 00:00,7,Gouvindaraj tea shop,Property,lorry,1,NA,1,NA,2,35,NA,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+155,53,Fatal,16-06-2011 00:00,4,Chettikarai kombai lake,Self fall,two wheeler,1,NA,1,NA,2,25,30,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+156,71,Simple,15-09-2011 00:00,8.15,Chetti Kombai junction road,two wheeler,two wheeler,1,NA,NA,NA,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+157,81,Grives,25-11-2011 00:00,12.15,Bus stop Thombarakampatty,Passenger,Bus,1,NA,NA,NA,1,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+158,64,Simple,15-08-2011 00:00,12,Boorikkal speed break,car,Van,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+159,65,Simple,30-07-2011 00:00,11.1,7 to 8 speed brake point,Lorry,lorry,2,NA,NA,NA,2,31,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+160,16,Simple,07-04-2012 00:00,20.45,"
+Dharmapuri to Salem road
+","Car
+
+","Lorry
+
+",3,NA,NA,NA,3,34,40,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+161,28,Simple,13-05-2012 00:00,11.3,"
+Thombarakampatty 
+",Two wheeler,Lorry,1,NA,NA,NA,1,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+162,46,Fatal,04-07-2012 00:00,20.15,"
+Sowlur bus stand","Bus
+
+","Lorry
+
+
+",NA,NA,1,NA,1,NA,54,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+163,57,Simple,15-09-2012 00:00,10.5,Adaiyar Ananda Bhavan Hotel,"Car
+ 
+",Two Wheeler,1,NA,NA,NA,1,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+164,53,Simple,04-09-2012 00:00,16,Anjanear temple,Self fall,"Van
+
+",1,NA,NA,NA,1,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+165,31,Grives,NA,15,Anjanear temple,"Lorry 
+","Lorry
+",1,NA,NA,NA,1,52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+166,30,Grives,20-05-2012 00:00,21.3,Anjanear temple,Lorry,Lorry,1,NA,NA,NA,1,38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+167,56,Fatal,14-09-2012 00:00,22.045,Anjanear temple,Self fall,"Lorry
+
+",NA,NA,1,NA,1,NA,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+168,77,Simple,04-12-2012 00:00,4.45,Anjanear temple,"Lorry
+
+","Lorry
+
+",1,NA,NA,NA,1,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+169,14,Simple,02-03-2012 00:00,7.3,Bommidi to Thoppur road,Two wheeler,"Car
+
+
+",1,NA,NA,NA,1,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+170,63,Grives,15-10-2012 00:00,19,Chandiranallur junction road,"Two wheeler
+
+","Van
+
+",1,NA,NA,NA,1,41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+171,39,Simple,16-06-2012 00:00,17.3,"Checkpost
+",Van,"Van
+
+",1,NA,NA,NA,1,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+172,7,Simple,23-02-2012 00:00,7,Dharmapuri to Salem road,Self fall,"Lorry
+ 
+",2,NA,NA,NA,2,30,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+173,29,Fatal,20-05-2012 00:00,12.45,"Dharmapuri to Salem road
+","Unknown vehicle 
+
+","Lorry
+ 
+",1,NA,NA,NA,1,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+174,21,Simple,21-04-2012 00:00,13.3,Dharmapuri to Salem road.,Passenger,BUS,1,NA,NA,NA,1,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+175,24,Simple,22-04-2012 00:00,9,Dharmapuri to salem road.,"Two wheeler
+","Car
+
+",1,NA,NA,NA,1,54,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+176,25,Fatal,03-05-2012 00:00,16.5,Dharmapuri to Salem road.,Cyclist,"Car
+
+",1,NA,NA,NA,1,47,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+177,34,Fatal,01-05-2012 00:00,20.45,Dharmapuri to Salem road.,"Two Wheeler
+
+",Lorry,NA,NA,1,NA,1,NA,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+178,15,Grives,06-03-2012 00:00,4,Gengalampuram,Self fall,"lorry 
+
+",1,NA,NA,NA,1,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+179,49,Simple,14-08-2012 00:00,18.3,Gengalampuram,"Two wheeler
+
+",Two Wheeler,1,NA,NA,NA,1,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+180,50,Grives,21-08-2012 00:00,9,Gengalampuram,Pedestrian,Two Wheeler,1,NA,NA,NA,1,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+181,18,Simple,02-04-2012 00:00,1.3,Velakaal,"Two wheeler 
+
+","Auto
+
+",1,NA,NA,NA,1,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+182,27,Simple,05-05-2012 00:00,21.3,Gengalampuram,Self fall,"Auto
+
+",1,NA,NA,NA,1,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+183,5,Fatal,05-02-2012 00:00,21.3,"Kundalmaduvu.
+",Self fall,Two Wheeler,1,NA,1,NA,2,38,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+184,51,Grives,02-08-2012 00:00,22,"Kurinchi check  post
+",Passenger,"Car
+
+",2,1,NA,NA,3,20,58,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+185,44,Grives,06-07-2012 00:00,9,Anchaneyar temple,Self fall,"lorry 
+
+
+",1,NA,NA,NA,1,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+186,66,Simple,06-10-2012 00:00,0.3,Anchaneyar temple,Self fall,"lorry 
+
+",2,NA,NA,NA,2,25,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+187,20,Grives,21-04-2012 00:00,14,Anchaneyar temple,"Van
+","Lorry
+
+
+",1,NA,NA,NA,1,48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+188,41,Simple,03-06-2012 00:00,21.3,Anchaneyar temple,Lorry,"Van
+
+",1,NA,NA,NA,1,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+189,71,Simple,02-12-2012 00:00,20,Anchaneyar temple,Self fall,Lorry,1,NA,NA,NA,1,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+190,52,Fatal,04-09-2012 00:00,14,Anchaneyar temple,Self fall,"
+Lorry
+
+",NA,NA,1,NA,1,NA,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+191,76,Simple,11-01-2012 00:00,10.3,Anchaneyar temple,Self fall,"Car
+
+",2,NA,NA,NA,2,22,38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+192,73,Simple,09-12-2012 00:00,11,Anchaneyar temple,"Lorry
+
+","Lorry
+
+",2,NA,NA,NA,2,41,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+193,38,Fatal,13-06-2012 00:00,14,Anchaneyar temple,Self fall,"Lorry
+
+
+",1,NA,NA,NA,1,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+194,74,Grives,12-12-2012 00:00,4.3,Anchaneyar temple,Self fall,"Lorry
+",1,NA,NA,NA,1,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+195,72,Simple,03-11-2012 00:00,6,Anchaneyar temple,Self fall,"Lorry
+
+",2,NA,NA,NA,2,39,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+196,1,Fatal,16-01-2012 00:00,17,"Near bridge, Dharmapuri to Salem road",Pedestrian,Lorry,NA,NA,1,NA,1,NA,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+197,64,Simple,18-10-2012 00:00,13.3,"Near bridge, Dharmapuri to Salem road","Van 
+
+","Bus
+
+",1,NA,NA,NA,1,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+198,8,Simple,04-02-2012 00:00,8,"
+Burial ground Thoppur.
+",Self fall,"Lorry
+",3,NA,NA,NA,3,30,40,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+199,11,Fatal,12-03-2012 00:00,9.3,"Dhandukarampatty,",Pedestrian,Two Wheeler,NA,NA,NA,1,1,NA,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+200,70,Simple,02-12-2012 00:00,18,Vellakkal,Two Wheeler,Car,2,NA,NA,NA,2,40,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+201,59,Simple,20-09-2012 00:00,11.3,"
+Thombarakam-patty",Pedestrian,Unknown Vechile,1,NA,NA,NA,1,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+202,58,Simple,15-09-2012 00:00,11,Pagalpatty,Pedestrian,Two Wheeler,NA,1,NA,NA,1,NA,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+203,65,Simple,21-10-2012 00:00,17,Gengalapuram,Pedestrian,Two wheeler,2,NA,NA,NA,2,35,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+204,43,Fatal,02-07-2012 00:00,17.3,"Kattamedu
+
+",Two wheeler,Lorry,NA,NA,1,NA,1,NA,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+205,75,Simple,01-12-2012 00:00,21,L&T gate,Pedestrian,"Van
+",1,NA,NA,NA,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+206,13,Grives,01-03-2012 00:00,14.45,"
+Vellaikkal 
+",Pedestrian,"Lorry
+
+
+",1,NA,NA,NA,1,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+207,45,Fatal,10-07-2012 00:00,16.3,"
+Konangkariyanur
+",Two wheeler,"Lorry
+
+",NA,NA,1,NA,1,NA,48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+208,9,Simple,05-01-2012 00:00,7.3,Poorikkal,Cyclist,TVS XL,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+209,10,Simple,07-03-2012 00:00,17,Pakalpatti,Two wheeler,Lorry,1,NA,NA,NA,1,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+210,4,Fatal,21-01-2012 00:00,15,"
+Dhasankottai",Self fall,"Tractor
+",NA,NA,1,NA,1,NA,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+211,3,Simple,15-01-2012 00:00,7.15,Thoppur Police quarters,Two wheeler,"Lorry
+
+
+",2,NA,NA,NA,2,24,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+212,35,Simple,01-05-2012 00:00,9.45,Thoppur Police quarters,Two wheeler,"Car
+
+",1,NA,NA,NA,1,49,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+213,22,Simple,17-04-2012 00:00,20,"
+Soranguppanur puthur.
+",Two wheeler,"Lorry
+
+",1,NA,NA,NA,1,38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+214,40,Fatal,17-06-2012 00:00,18.3,Puvana grocer shop,Pedestrian,Two Wheeler,1,NA,NA,NA,1,52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+215,37,Simple,07-05-2012 00:00,13,"
+Chekkarapatty.
+
+",Two wheeler,"Auto
+
+",1,NA,NA,NA,1,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+216,60,Fatal,04-09-2012 00:00,5.3,Thoppur junction,Two wheeler,"Lorry
+
+",NA,NA,1,NA,1,NA,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+217,48,Grives,15-08-2012 00:00,11,Thoppur Police quarters,Two wheeler,Car,1,NA,NA,NA,1,56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+218,2,Simple,16-01-2012 00:00,11.15,Toll gate,Lorry,"Two Wheeler
+
+
+",1,NA,NA,NA,1,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+219,62,Simple,12-10-2012 00:00,8.4,Palayampudur,Pedestrian,Bus,1,NA,NA,NA,1,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+220,67,Fatal,02-11-2012 00:00,15.15,Palayampudur,Two wheeler,"Car
+
+",NA,NA,1,NA,1,NA,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+221,12,Simple,19-03-2012 00:00,17.3,Palayampudur,Two wheeler,Lorry,1,NA,NA,NA,1,36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+222,69,Simple,04-11-2012 00:00,14,Palayampudur,Cyclist,"Car
+
+",2,NA,NA,NA,2,15,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+223,54,Simple,10-09-2012 00:00,19,"
+Thombarakam-patty.
+
+",Two wheeler,"Car
+
+",2,NA,NA,NA,2,25,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+224,6,Simple,08-02-2012 00:00,21.3,Purikkal,Two wheeler,Eicher,1,NA,NA,NA,1,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+225,26,Simple,02-05-2012 00:00,21,"
+Sanisandhai
+",Pedestrian,"Van
+
+",1,NA,NA,NA,1,41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+226,61,Simple,06-10-2012 00:00,12.35,"Sakthi tea shop
+",Pedestrian,"Two Wheeler
+
+",NA,1,NA,NA,1,NA,67,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+227,17,Simple,07-04-2012 00:00,21.3,Salem to Dharmapuri road.,Two wheeler,"Auto
+
+",1,NA,NA,NA,1,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+228,55,Grives,12-09-2012 00:00,13.3,Salem to Dharmapuri road.,Pedestrian,"Van
+
+",1,NA,NA,NA,1,43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+229,36,Fatal,04-05-2012 00:00,22.5,Thoppur clough,Two wheeler,"lorry 
+
+",1,NA,NA,NA,1,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+230,23,Fatal,22-04-2012 00:00,23.45,Thombarakampatty JN road,"Van 
+",Lorry,NA,NA,1,NA,1,NA,36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+231,68,Grives,03-11-2012 00:00,9,Thoppur JN road,Two wheeler,"Bus
+ 
+",1,NA,NA,NA,1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+232,42,Simple,01-07-2012 00:00,23,Thoppur Pudur road,Lorry,"Bus
+
+",1,NA,NA,NA,1,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+233,19,Fatal,20-04-2012 00:00,14.15,Thoppur to Salme road.,Self fall,Two wheeler,NA,NA,1,NA,1,NA,48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+234,32,Simple,20-05-2012 00:00,8.3,Ummiyampatty,Two wheeler,Two Wheeler,1,NA,NA,NA,1,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+235,47,Simple,07-08-2012 00:00,18.3,Uthcimarathupallam,Pedestrian,Bus,1,NA,NA,NA,1,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+236,15,Fatal,14-02-2013 00:00,16,Vellakkal bus stop,two wheeler,van,1,NA,NA,NA,2,NA,22,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+237,84,Simple,09-12-2013 00:00,5,Vellakkal bus stop,Passenger,car,5,NA,NA,NA,5,25,50,43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+238,70,Fatal,12-11-2013 00:00,2,Vellakal bus stop,Unknown,Unknown,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+239,57,Simple,07-10-2013 00:00,11,Vellakal bus stop,Pedestrian,two wheeler,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+240,2,Fatal,06-01-2013 00:00,21.45,Toll Plaza,Pedestrian,Lorry,NA,NA,NA,NA,1,NA,48,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+241,54,Simple,26-09-2013 00:00,22.5,Toll Plaza,Pedestrian,two wheeler,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+242,42,Fatal,25-08-2013 00:00,10.15,ravine,Self fall,lorry,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+243,49,Grives,07-09-2013 00:00,23.3,Pudhur Kamachiyamman temple,two wheeler,Unknowm,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+244,12,Simple,02-02-2013 00:00,7.3,Kanavai bridge,lorry,van,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+245,33,Simple,06-06-2013 00:00,17,Thoppiyaru dam,NA,car,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+246,89,Simple,19-12-2013 00:00,12,Thoppaiyar dam,Cyclist,car,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+247,59,Simple,14-10-2013 00:00,11.4,Thoopur junction,car,lorry,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+248,62,Simple,21-10-2013 00:00,7.3,Thomparakampatty,Pedestrian,two wheeler,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+249,43,Simple,27-08-2013 00:00,23.3,Thomparakampatty,van,van,2,NA,NA,NA,2,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+250,9,Simple,23-01-2013 00:00,20,Thombarakampatty,Pedestrian,bus,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+251,19,Simple,16-03-2013 00:00,8.2,Thombarakampatty,NA,car,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+252,3,Fatal,10-01-2013 00:00,11,Thatanaickampatty village,Pillion,two wheeler,NA,NA,NA,NA,1,NA,55,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+253,79,Simple,26-11-2013 00:00,9.15,Sowlur bus stop,Pedestrian,two wheeler,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+254,81,Simple,29-11-2013 00:00,1.3,Sowlur bus stop,Passenger,car,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+255,78,Simple,25-11-2013 00:00,20,Sekkarapatty village,two wheeler,van,2,1,NA,NA,3,36,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+256,58,Simple,11-10-2013 00:00,9.3,Savulur bus stop,two wheeler,two wheeler,2,NA,NA,NA,2,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+257,18,Fatal,12-03-2013 00:00,2,Sanisanthai Palayam puthur,Unknown,Unknown,NA,NA,NA,NA,1,NA,65,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+258,88,Simple,17-12-2013 00:00,13,Sanichandhai bus stop,two wheeler,Unknown,NA,1,NA,NA,1,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+259,23,Fatal,26-04-2013 00:00,12,Rajendaran house,two wheeler,Lorry,1,NA,NA,NA,2,NA,42,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+260,35,Simple,15-06-2013 00:00,23,Rajalakshmi Petrol bunk Thoppur,Pedestrian,bus,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+261,74,Simple,16-11-2013 00:00,18.15,Poorikal junction road,car,lorry,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+262,73,Fatal,16-11-2013 00:00,16.45,Police quarters,car,lorry,NA,NA,NA,NA,1,NA,62,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+263,5,Simple,10-01-2013 00:00,9.5,Police quarters,two wheeler,Lorry,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+264,10,Fatal,31-01-2013 00:00,10.2,Police quarters,two wheeler,Lorry,NA,NA,NA,NA,1,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+265,63,Simple,01-11-2013 00:00,9.3,Police quarters,two wheeler,car,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+266,61,Simple,13-10-2013 00:00,21,Police Quarter junction,two wheeler,Unknown Car,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+267,87,Simple,18-12-2013 00:00,19.3,Petrol bunk Palayampuadhur,Pedestrian,car,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+268,25,Grives,03-05-2013 00:00,9,Palayamputhur junction,two wheeler,car,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+269,21,Grives,23-03-2013 00:00,22.45,Palayamputhur junction,Pedestrian,Unknown,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+270,77,Simple,21-11-2013 00:00,16.2,Palayampudur village,two wheeler,tailor lorry,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+271,34,Fatal,11-06-2013 00:00,13,Palayampudur JN road,Pedestrian,car,NA,NA,NA,1,1,NA,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+272,29,Simple,18-05-2013 00:00,4.5,Palayampudur JN road,bus,van,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+273,55,Simple,28-09-2013 00:00,11.15,Palaiyampudur JN road,two wheeler,van,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+274,82,Simple,04-12-2013 00:00,1,Over bridge,car,lorry,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+275,20,Simple,13-03-2013 00:00,19,Madhiyan hotel check post,Pedestrian,car,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+276,11,Simple,31-01-2013 00:00,13.3,Madhiyan hotel,two wheeler,Lorry,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+277,44,Simple,29-08-2013 00:00,17,Lakshmi Narayana Polytechnic college Savulur,Cyclist,lorry,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+278,36,Grives,20-06-2013 00:00,16.3,Krishnan poultry Ealagiri to Nagavathi dam road,two wheeler,van,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+279,48,Simple,06-09-2013 00:00,5,Kattamedu down,Passenger,car,2,NA,NA,NA,2,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+280,47,Fatal,04-09-2013 00:00,17.4,Kattamedu bus stop,two wheeler,Unknowm,NA,NA,NA,NA,1,NA,48,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+281,85,Simple,15-12-2013 00:00,16,Kattamedu bus stop,Passenger,van,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+282,75,Simple,19-11-2013 00:00,16,Kattamedu bus stop,Passenger,lorry,2,NA,NA,NA,2,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+283,24,Simple,27-04-2013 00:00,20,Kattamedu,Pedestrian,two wheeler,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+284,52,Simple,19-09-2013 00:00,18.3,Kattamedu,Self fall,lorry,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+285,26,Simple,05-05-2013 00:00,19,In-front of Kandhasamy grocery shop,NA,car,NA,1,NA,NA,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+286,6,Fatal,13-01-2013 00:00,17.3,ghat section road,two wheeler,unknown vehicle.,NA,NA,NA,NA,1,NA,35,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+287,22,Simple,28-03-2013 00:00,20.3,Dharga junction Thoppur,Pedestrian,Auto,NA,1,NA,NA,1,85,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+288,56,Fatal,06-10-2013 00:00,16,complainant’s house Pudhur,Passenger,bus,NA,NA,NA,NA,1,NA,50,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+289,27,Simple,05-05-2013 00:00,14.3,check post,two wheeler,Lorry,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+290,30,Simple,21-05-2013 00:00,22.45,check post,Pedestrian,two wheeler,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+291,37,Simple,20-06-2013 00:00,16.3,check post,two wheeler,lorry,2,NA,NA,NA,2,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+292,45,Simple,30-08-2013 00:00,22.3,Chenrayaperumal temple,two wheeler,car,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+293,64,Simple,02-11-2013 00:00,19,Chendraya Perumal koil Palayampudhur,two wheeler,Tractor,2,1,NA,NA,3,5,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+294,60,Simple,14-10-2013 00:00,11.3,Check post Thoppur,Pedestrian,car,NA,1,NA,NA,1,65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+295,51,Simple,23-08-2013 00:00,8.3,Check post bus stop,Passenger,bus,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+296,13,Fatal,02-02-2013 00:00,19.3,Buvana grocer shop Vellakkal,Pedestrian,Unknown vehicle,NA,NA,NA,NA,1,NA,55,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+297,1,Simple,02-01-2013 00:00,19,bus stop Vellakal,Car,lorry,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+298,16,Simple,05-03-2013 00:00,16.3,bus stop Sevadi road,Passenger,Auto,NA,1,NA,NA,1,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+299,32,Simple,07-06-2013 00:00,16,bus stop Savulur,bus,lorry,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+300,39,Simple,21-07-2013 00:00,18,bus stop Kattamedu,bus,lorry,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+301,83,Fatal,09-12-2013 00:00,6.15,Bus stop Gettupatty,Pedestrian,bus,NA,NA,NA,NA,1,NA,65,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+302,46,Fatal,04-09-2013 00:00,11.45,Bagalpatty bus stop,Pedestrian,can,NA,NA,NA,NA,1,NA,70,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+303,17,Simple,09-03-2013 00:00,14,Anjaneyar,lorry,Lorry,3,NA,NA,NA,3,45,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+304,31,Simple,31-05-2013 00:00,3,Anjaneyar,Self fall,lorry,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+305,7,Simple,14-01-2013 00:00,9.2,Anjaneyar,two wheeler,Lorry,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+306,40,Simple,04-08-2013 00:00,9.15,Anjaneyar,two wheeler,Lorry,1,1,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+307,41,Simple,16-08-2013 00:00,3,Anjaneyar,lorry,lorry,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+308,86,Fatal,17-12-2013 00:00,18,Anjaneyar,bus,lorry,NA,NA,NA,NA,1,NA,42,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+309,65,Fatal,02-11-2013 00:00,18,Anjaneyar,Pillion,two wheeler,NA,NA,NA,NA,1,NA,23,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+310,14,Simple,10-02-2013 00:00,10,Anjaneyar,bus,lorry,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+311,71,Simple,15-11-2013 00:00,9.15,Anjaneyar,Passenger,lorry,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+312,72,Fatal,15-11-2013 00:00,18,Anjaneyar,Passenger,lorry,NA,NA,NA,NA,1,NA,21,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+313,68,Simple,10-11-2013 00:00,6,Anjaneyar,Passenger,lorry,2,NA,NA,NA,2,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+314,69,Simple,11-11-2013 00:00,10,Anjaneyar,Passenger,lorry,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+315,67,Grives,10-11-2013 00:00,6,Anjaneyar,lorry,lorry,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+316,76,Simple,19-11-2013 00:00,8,Anjaneyar,lorry,lorry,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+317,66,Fatal,09-11-2013 00:00,21,Anjaneyar,two wheeler,lorry,NA,NA,NA,NA,1,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+318,50,Fatal,10-09-2013 00:00,15,Anjaneyar,Pillion,two wheeler,NA,NA,NA,NA,1,NA,19,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+319,53,Simple,25-09-2013 00:00,9,Anjaneyar,Passenger,lorry,2,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+320,28,Simple,07-05-2013 00:00,13.3,Anjaneyar,bus,lorry,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+321,4,Simple,10-01-2013 00:00,6,Anjaneyar,Pillion,Lorry,2,NA,NA,NA,2,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+322,38,Fatal,19-07-2013 00:00,21,Adaiyar Ananthabavan hotel,Passenger,car,2,NA,NA,NA,4,30,NA,29,29,NA,NA,NA,NA,NA,NA,2,NA,NA,NA
+323,8,Fatal,16-01-2013 00:00,16.3,Adaiyar Ananda Bhavan Hotel,Self fall,two wheeler,NA,NA,NA,NA,1,NA,23,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+324,80,Simple,28-11-2013 00:00,13.3,Kattamedu,car,Not known,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+325,67,Simple,20-10-2014 00:00,10.3,Aattukaranpatti bus stop.,Two Wheeler,"car
+
+
+",1,1,NA,NA,2,27,39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+326,42,Simple,14-05-2014 00:00,15.5,Adaiyar Anandhabavan hotel,Two Wheeler,"car
+
+
+",1,NA,NA,NA,1,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+327,45,Simple,03-06-2014 00:00,19.3,Anchaneyar temple,Self fall,"lorry 
+",1,NA,NA,NA,1,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+328,26,Simple,04-03-2014 00:00,8.45,Anchaneyar temple,"lorry
+ 
+","lorry 
+",2,NA,NA,NA,2,35,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+329,72,Simple,08-12-2014 00:00,21.3,Anchaneyar temple,"lorry
+ 
+","lorry 
+",1,NA,NA,NA,1,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+330,25,Simple,16-03-2014 00:00,19,Anchaneyar temple,"lorry
+ 
+",Unknown vechile,1,NA,NA,NA,1,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+331,60,Simple,21-08-2014 00:00,11.5,"Anchineyar temple,
+Krishnagiri to Salem main road
+",Two Wheeler,"lorry
+
+
+",2,NA,NA,NA,2,55,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+332,64,Simple,09-02-2014 00:00,17,"Anjaneyar pallam,
+Thoppur to Mecheri road.
+",Two Wheeler,Car,1,NA,NA,NA,1,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+333,69,Simple,22-10-2014 00:00,11.3,"Anjaneyar temple
+","Lorry
+
+","Lorry
+
+",1,NA,NA,NA,1,56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+334,48,Fatal,13-06-2014 00:00,3.3,"
+Sanisanthai
+","Lorry
+
+","Pickup Van
+
+",NA,NA,1,NA,1,NA,NA,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+335,61,Fatal,05-09-2017 00:00,7,Dharmapuri to Salem road.,Two Wheeler,"Lorry
+",NA,NA,1,NA,1,NA,NA,74,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+336,62,Simple,06-09-2014 00:00,8.45,Gengalapuram,Pedestrian,Two Wheeler,1,NA,NA,NA,1,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+337,59,Simple,18-08-2014 00:00,13.3,"Nirmal chicken  centre, Thoppur","Two Wheeler 
+
+",Two Wheeler,1,NA,NA,NA,1,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+338,6,Fatal,22-01-2014 00:00,18.3,"Kedikankuttai bridge.
+",Self fall,Two Wheeler,NA,NA,1,NA,1,NA,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+339,15,Simple,03-03-2014 00:00,9,"Kengalapuram water tank 
+",Pedestrian,Two Wheeler,NA,1,NA,NA,1,NA,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+340,71,Fatal,23-11-2014 00:00,7,Kurinchi Nagar,Two Wheeler,Car,1,NA,1,NA,2,3,NA,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+341,20,Simple,14-11-2014 00:00,8.15,Kurinchi Nagar,Two Wheeler,Two Wheeler,2,NA,NA,NA,2,48,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+342,41,Simple,03-05-2014 00:00,20,"Madhaiyan hotel, Thoppur",Pedestrian,"TNSTC bus 
+
+",1,NA,NA,NA,1,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+343,75,Simple,23-12-2014 00:00,8,"Malluchettikottai
+",Two Wheeler,Two Wheeler,1,NA,NA,NA,1,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+344,29,Simple,08-04-2014 00:00,11,Manickamputhru,Two Wheeler,"Auto
+
+
+",1,NA,NA,NA,1,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+345,9,Simple,06-02-2014 00:00,17.3,"
+Bagalpatty.
+",Pedestrian,Two Wheeler,2,NA,NA,NA,2,18,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+346,18,Simple,09-03-2014 00:00,10.45,"Aanjaneyar Temple
+
+","car
+
+","Taurus Lorry
+
+",2,1,NA,NA,3,56,25,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+347,23,Simple,17-03-2017 00:00,7,"Aanjaneyar Temple
+
+","car
+
+","Lorry
+
+",1,1,NA,NA,2,25,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+348,77,Simple,05-12-2014 00:00,0.3,"Aanjaneyar Temple
+
+",Self fall,"lorry 
+",2,NA,NA,NA,2,45,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+349,10,Simple,13-02-2014 00:00,22,"Aanjaneyar Temple
+
+",Van,Unknown  Vechile,1,NA,NA,NA,1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+350,54,Simple,04-07-2014 00:00,11,"Aanjaneyar Temple
+
+",Van,"lorry
+ 
+",2,NA,NA,NA,2,24,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+351,33,Simple,19-04-2014 00:00,8,"Aanjaneyar Temple
+
+",Self fall,Two Wheeler,1,NA,NA,NA,1,41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+352,7,Simple,01-01-2014 00:00,6.3,"Aanjaneyar Temple
+
+",Lorry,"Van
+
+",1,NA,NA,NA,1,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+353,12,Simple,23-02-2014 00:00,7,"Aanjaneyar Temple
+
+",Self fall,"Cleaner of Lorry
+",1,NA,NA,NA,1,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+354,17,Simple,05-03-2014 00:00,22,"Aanjaneyar Temple
+
+","Lorry
+","Container Lorry
+
+
+",1,NA,NA,NA,1,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+355,30,Fatal,14-04-2014 00:00,5,"Aanjaneyar Temple
+
+",Two Wheeler,"Taurus Lorry
+.
+
+",NA,NA,1,NA,1,NA,NA,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+356,40,Simple,08-05-2014 00:00,11.4,"Aanjaneyar Temple
+
+",Lorry,"TNSTC Bus
+
+",1,NA,NA,NA,1,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+357,21,Simple,13-03-2014 00:00,16.3,"Aanjaneyar Temple
+
+",Self fall,"Trailer Lorry
+
+",2,NA,NA,NA,2,20,43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+358,32,Simple,20-04-2014 00:00,6.3,Bharath Petrol Bunk,"Van
+
+","Lorry
+
+",1,NA,NA,NA,1,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+359,3,Simple,10-01-2014 00:00,22.3,"Near Dhanapal’s house, Thoppur
+",Pedestrian,Unknown  Vechile,1,NA,NA,NA,1,36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+360,74,Simple,22-12-2014 00:00,8,sorangappan pudhur.,"Two Wheeler
+
+","private college bus 
+
+",1,NA,NA,NA,1,47,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+361,14,Simple,20-02-2014 00:00,17,"
+Kaligoundankottai
+",Self fall,"Auto
+
+
+",NA,2,NA,NA,2,NA,25,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+362,39,Fatal,06-05-2014 00:00,21,"Kattamedu
+
+",Pedestrian,Un known vechile,NA,NA,1,NA,1,NA,NA,36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+363,22,Simple,13-03-2014 00:00,17,"Kattamedu
+
+",Self fall,Two Wheeler,1,NA,NA,NA,1,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+364,1,Simple,05-01-2014 00:00,6.45,"Kattamedu
+
+",Passenger,Auto,NA,1,NA,NA,1,NA,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+365,11,Simple,15-02-2014 00:00,2,"Kattamedu
+
+","Lorry
+
+","Lorry
+
+
+",1,NA,NA,NA,1,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+366,56,Simple,22-07-2014 00:00,6.3,Kurunji Nagar,Pedestrian,Two Wheeler,1,NA,NA,NA,1,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+367,53,Simple,07-07-2014 00:00,12.15,Melkottavur,"Auto
+
+","Tracktor
+
+",NA,1,NA,NA,1,NA,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+368,37,Simple,06-04-2014 00:00,19.3,Muniyappna temple,Two wheeler,"Lorry
+",1,NA,NA,NA,1,49,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+369,66,Simple,03-10-2014 00:00,13.3,"new colony,
+Thoppur
+",Two wheeler,"Van
+
+",2,NA,NA,NA,2,22,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+370,27,Simple,16-03-2014 00:00,6,Pagalpadi,Two wheeler,Un known  tempo,1,NA,NA,NA,1,39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+371,16,Fatal,05-03-2012 00:00,12.3,"Periya Yerikuttai
+",Two wheeler,"Taurus Lorry
+
+",NA,NA,1,NA,1,NA,NA,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+372,13,Simple,23-02-2014 00:00,13,Savulur,Self fall,Van,2,NA,NA,NA,2,29,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+373,35,Fatal,01-04-2014 00:00,21,Savulur,Self fall,Two Wheeler,NA,NA,1,NA,1,NA,NA,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+374,5,Simple,13-01-2014 00:00,22,"TASMAC shop, Thoppur",Cyclist,"van
+
+",1,NA,NA,NA,1,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+375,44,Simple,01-05-2014 00:00,5.45,Thombarakampatti Bus stop,"lorry
+","bus
+
+",1,NA,NA,NA,1,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+376,24,Simple,17-03-2014 00:00,15,Thoppur Bridge,"Car
+
+","car
+
+",NA,3,NA,NA,3,NA,35,37,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+377,36,Fatal,04-04-2014 00:00,8.4,Thoppur junction road,Pedestrian,"Bus
+",NA,NA,1,NA,1,NA,NA,59,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+378,19,Simple,10-03-2014 00:00,19.3,Toll Plaza,Pedestrian,"Unknown Car
+
+",1,NA,NA,NA,1,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+379,46,Simple,04-06-2014 00:00,20.3,Vellakkal,"Two wheeler
+
+","Car
+
+",2,NA,NA,NA,2,17,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+380,76,Fatal,28-01-1900 02:54,20.55,Vellakkal,"Lorry
+
+","Car
+
+",NA,NA,1,NA,1,NA,NA,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+381,68,Fatal,22-10-2014 00:00,19.3,Pagalpatti,Two Wheeler,Two Wheeler,NA,NA,1,NA,1,NA,NA,36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+382,38,Simple,22-04-2014 00:00,23.3,Pagalpatti,Pedestrian,Two Wheeler,1,NA,NA,NA,1,63,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+383,34,Fatal,23-01-2014 00:00,17,Palayamputhur,Pedestrian,Car,NA,NA,1,NA,1,NA,NA,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+384,70,Simple,01-10-2014 00:00,15.3,Palayamputhur,Pedestrian,Bus,1,NA,NA,NA,1,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+385,4,Simple,13-01-2014 00:00,18.3,Palayamputhur,Two  Wheeler,"Two wheeler
+
+",1,NA,NA,NA,1,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+386,58,Simple,14-08-2014 00:00,12.2,"Sani sandhai 
+
+",Two Wheeler,Lorry,2,NA,NA,NA,2,20,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+387,51,Grives,17-06-2014 00:00,20.3,Sekkarapattu,Two Wheeler,"Tractor
+",1,NA,NA,NA,1,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+388,43,Simple,20-05-2014 00:00,20.3,"
+Dharmapuri to Salem road 
+",Two Wheeler,lorry,1,NA,NA,NA,1,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+389,2,Simple,09-01-2014 00:00,21.3,Thoppur bus stand,Pedestrian,"Van
+
+",NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+390,73,Simple,16-12-2014 00:00,17,Thoppur Chandiranallur Junction road,Two Wheeler,Two Wheeler,2,NA,NA,NA,2,16,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+391,57,Simple,08-08-2014 00:00,14,Thoppur Dharka car parking.,Pedestrian,"van 
+
+",1,NA,NA,NA,1,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+392,47,Simple,08-04-2014 00:00,18.45,Thoppur forest,Passenger,Bus,1,NA,NA,NA,1,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+393,31,Simple,17-04-2014 00:00,12,Thoppur Kanvai,Two Wheeler,"lorry
+
+",1,NA,NA,NA,1,36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+394,52,Fatal,06-06-2014 00:00,9,Thoppur Pudur,Two Wheeler,"lorry 
+
+",NA,NA,1,NA,1,NA,NA,39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+395,63,Simple,11-09-2014 00:00,8,Thoppur toll plaza,Passenger,"bus
+",1,NA,NA,NA,1,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+396,55,Simple,14-04-2014 00:00,13.3,Vettai goundan kottai,Pedestrian,"lorry
+ 
+",1,NA,NA,NA,1,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+397,49,Grives,15-06-2014 00:00,22.3,Vanniyar Thesam,"Van
+",Lorry,1,NA,NA,NA,1,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+398,50,Fatal,17-06-2014 00:00,18.3,Vellakkal,Two Wheeler,"van
+ 
+",NA,NA,1,NA,1,NA,NA,52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+399,65,Fatal,06-09-2014 00:00,11.3,Vellakkal,Self fall,Two Wheeler,NA,NA,1,NA,1,NA,NA,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+400,28,Fatal,07-04-2014 00:00,19,"Vinayagar Temple,
+Sundiranallur Kattuvalavu
+",Two Wheeler,Tractor,NA,NA,1,NA,1,NA,NA,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+401,8,Simple,25-01-2014 00:00,21.2,Unknown,Pedestrian,Two Wheeler,1,NA,NA,NA,1,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+402,50,Simple,04-07-2015 00:00,4.3,Vellakkal junction road,two wheeler,Two Wheeler,1,1,NA,NA,2,48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+403,29,Simple,12-04-2015 00:00,8.3,Vellakkal junction road,two wheeler,lorry,1,1,NA,NA,2,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+404,28,Fatal,01-04-2015 00:00,21,Vellakkal junction road,Pedestrian,car,NA,NA,1,NA,1,NA,72,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+405,45,Fatal,29-05-2015 00:00,22,Thombarakampatti junction road,Pedestrian,unknown,NA,NA,NA,1,1,NA,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+406,2,Fatal,08-01-2015 00:00,13.3,Rajabojanam Hotel,lorry,car,NA,NA,2,NA,2,NA,35,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+407,20,Simple,28-02-2015 00:00,19.15,Palayamputhur Jn,two wheeler,lorry,1,1,NA,NA,2,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+408,5,Simple,18-01-2015 00:00,14,Palaiyampudur Junction Road,two wheeler,car,1,1,NA,NA,2,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+409,39,Simple,08-05-2015 00:00,18.3,Pakalpati bus stop,two wheeler,Two Wheeler,1,1,NA,NA,2,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+410,69,Fatal,13-10-2015 00:00,0.15,Nearby Vellakkal NH road turn,Passenger,two wheeler,1,1,1,NA,3,23,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+411,86,Simple,04-12-2015 00:00,1,X road Vellakkal,lorry,lorry,1,1,NA,NA,2,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+412,88,Simple,07-12-2015 00:00,10,X road Thoppur,Self fall,Two Wheeler,2,2,NA,NA,4,22,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+413,91,Simple,08-12-2015 00:00,14,X road kattamedu,Self fall,lorry,1,1,NA,NA,2,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+414,97,Simple,17-12-2015 00:00,16.1,X raod Vellakal,two wheeler,"lorry 
+
+",1,1,NA,NA,2,44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+415,96,Simple,16-12-2015 00:00,19,X raod Bus stop Jarugu,Pedestrian,Two Wheeler,1,NA,NA,NA,1,NA,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+416,19,Fatal,28-02-2015 00:00,19,Vellakkal.,Unknown,Unknown,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+417,33,Grives,01-05-2015 00:00,23,Vellakkal junction road,lorry,lorry,1,1,NA,NA,2,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+418,59,Fatal,07-09-2015 00:00,14.3,Vellakkal JN road,Self fall,Two Wheeler,NA,NA,1,NA,1,NA,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+419,67,Simple,02-10-2015 00:00,8.15,Vellakkal bus stop,two wheeler,car,2,2,NA,NA,4,33,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+420,1,Fatal,01-01-2015 00:00,22,Vellakkal bus stop,Pedestrian,car,NA,NA,1,NA,1,NA,48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+421,56,Simple,10-08-2015 00:00,7.3,Tollgate Thomprakampatti,Pedestrian,car,1,1,NA,NA,2,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+422,6,Simple,18-01-2015 00:00,20.45,Tollgate,Self fall,car,1,1,NA,NA,2,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+423,15,Simple,18-02-2015 00:00,16.3,river bridge,two wheeler,car,1,1,NA,NA,2,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+424,21,Fatal,02-03-2015 00:00,18.3,check post,car,lorry,2,1,1,NA,4,50,40,52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+425,3,Simple,15-01-2015 00:00,10,Police quarters,two wheeler,two wheeler,1,1,NA,NA,2,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+426,22,Fatal,03-03-2015 00:00,17.3,Kattamedu,two wheeler,lorry,NA,NA,1,NA,1,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+427,8,Simple,31-01-2015 00:00,16.3,kattamedu,car,car,2,1,NA,NA,3,60,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+428,70,Simple,18-10-2015 00:00,8.3,Kanavai over bridge,Passenger,van,6,2,NA,NA,8,50,40,35,48,39,35,NA,NA,NA,NA,NA,NA,NA,NA
+429,53,Simple,12-07-2015 00:00,23,commercial check post,Passenger,van,3,3,NA,NA,6,34,32,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+430,18,Simple,24-02-2015 00:00,4,Anjaneyar temple,lorry,bus,1,1,NA,NA,2,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+431,48,Simple,11-06-2015 00:00,13,Anjaneyar temple,car,lorry,2,2,NA,NA,4,34,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+432,40,Simple,09-05-2015 00:00,18.3,Anjaneyar temple,lorry,lorry,1,1,NA,NA,2,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+433,14,Simple,10-02-2015 00:00,8,Thomrakampatti bus stop,Passenger,van,1,1,NA,NA,2,44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+434,23,Simple,05-03-2015 00:00,21.45,Thomparagampatty junction road,Lorry,lorry,2,2,NA,NA,4,24,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+435,76,Simple,04-10-2015 00:00,16.4,Thombarakampatti bus stop,bus,lorry,1,1,NA,NA,2,41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+436,26,Fatal,22-03-2015 00:00,20,Thombaragampatti junction road,two wheeler,bus,NA,NA,1,NA,1,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+437,27,Fatal,22-03-2015 00:00,21.3,Sountharya hotel Palayamputhur junction road,two wheeler,Unknown,NA,NA,1,NA,1,NA,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+438,74,Simple,02-10-2015 00:00,16,Seesampatty X road,two wheeler,car,2,2,NA,NA,4,49,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+439,17,Simple,22-02-2015 00:00,16,Savulur Salem main road,two wheeler,two wheeler,1,1,NA,NA,2,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+440,93,Fatal,08-12-2015 00:00,18.45,Savulur bus stop,Pedestrian,Unknown,NA,NA,1,NA,1,NA,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+441,49,Simple,07-04-2015 00:00,7.15,Sadhaiyankottai,two wheeler,bus,1,1,NA,NA,2,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+442,55,Simple,29-07-2015 00:00,5,Rajendiran house,two wheeler,lorry,1,1,NA,NA,2,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+443,94,Simple,11-11-2015 00:00,18.3,Police quarters Thoppur,two wheeler,Two Wheeler,1,1,NA,NA,2,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+444,7,Simple,25-01-2015 00:00,7.45,Palayampudhur JN road,two wheeler,unknown,1,1,NA,NA,2,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+445,77,Simple,08-11-2015 00:00,23,Palayampudhur bus stop,two wheeler,lorry,1,1,NA,NA,2,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+446,37,Fatal,10-05-2015 00:00,2,Pakalahalli PACB,Unknown,Unknown,NA,NA,NA,1,1,NA,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+447,10,Simple,02-02-2015 00:00,18,Pachiyappan house Thombarakampatti.,two wheeler,car,1,1,NA,NA,2,48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+448,64,Simple,29-09-2015 00:00,6.15,PACB Bagalpatti,Pedestrian,Two Wheeler,1,1,NA,NA,2,65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+449,30,Fatal,13-04-2015 00:00,17.3,Muniyappan house,Self fall,car,NA,NA,1,NA,1,NA,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+450,84,Grives,29-11-2015 00:00,17,Mariyamman kovil jarugu colony,two wheeler,Two Wheeler,1,1,NA,NA,2,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+451,34,Simple,02-05-2015 00:00,19,Kurinji Nagar junction,two wheeler,Two Wheeler,1,1,NA,NA,2,41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+452,4,Simple,17-01-2015 00:00,18,Kottavur Samichettipatty,two wheeler,Two Wheeler,1,1,NA,NA,2,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+453,79,Simple,13-11-2015 00:00,13.3,Kengalapuram bus stop,Pedestrian,two wheeler,1,1,NA,NA,2,48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+454,38,Simple,10-05-2015 00:00,19.3,Kanavai bridge,two wheeler,Two Wheeler,3,3,NA,NA,6,30,45,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+455,16,Simple,21-02-2015 00:00,21.45,kattamedu,Passenger,lorry,2,2,NA,NA,4,21,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+456,41,Fatal,14-05-2015 00:00,14.2,Kattamedu,Passenger,bus,NA,NA,1,NA,1,NA,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+457,63,Simple,16-09-2015 00:00,20.3,Iyarkuttai,Scooty,Unknown,1,1,NA,NA,2,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+458,42,Simple,15-05-2015 00:00,20,HP petrol bunk Thoppur,Self fall,lorry,1,1,NA,NA,2,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+459,25,Simple,13-03-2015 00:00,20.3,Hogenakkal water over tank Savulur,two wheeler,Two Wheeler,2,1,NA,NA,3,50,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+460,32,Simple,26-04-2015 00:00,0.3,Highways department office,lorry,lorry,1,1,NA,NA,2,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+461,46,Simple,29-05-2015 00:00,9,GH Palayamputhur,Pedestrian,unknown,1,1,NA,NA,2,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+462,9,Fatal,31-01-2015 00:00,17.1,Double bridge,Passenger,bus,2,1,1,NA,4,35,45,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+463,58,Simple,24-08-2015 00:00,9.45,double bridge,Self fall,car,3,3,NA,NA,6,52,57,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+464,60,Simple,09-09-2015 00:00,19,complainant’s house Bagalpatti,Pedestrian,car,2,2,NA,NA,4,55,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+465,87,Simple,05-12-2015 00:00,1,check post,lorry,lorry,1,1,NA,NA,2,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+466,43,Simple,19-05-2015 00:00,3.3,check post,Self fall,lorry,1,1,NA,NA,2,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+467,92,Simple,23-11-2015 00:00,1,check post,Self fall,car,1,1,NA,NA,2,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+468,89,Simple,05-12-2015 00:00,19.3,bus stop Vellakal,Self fall,Bus,1,1,NA,NA,2,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+469,61,Simple,10-09-2015 00:00,1.15,bus stop Palaiyampudur,Self fall,car,1,1,NA,NA,2,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+470,78,Fatal,09-11-2015 00:00,14,big lake Jarugu to Barigam road,two wheeler,Two Wheeler,NA,NA,1,NA,1,NA,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+471,52,Simple,14-07-2015 00:00,8,Bagalpatti bus stop,Pedestrian,Two Wheeler,1,1,NA,NA,2,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+472,12,Simple,06-02-2015 00:00,5,Bagalpatti,Passenger,car,2,2,NA,NA,4,53,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+473,90,Simple,05-12-2015 00:00,17.3,Anjeneyar,two wheeler,lorry,2,2,NA,NA,4,25,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+474,85,Grives,29-11-2015 00:00,14.3,Anjeneyar,Self fall,van,1,1,NA,NA,2,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+475,35,Fatal,05-05-2015 00:00,10,Anjeneyar,Self fall,lorry,NA,NA,1,NA,1,NA,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+476,11,Simple,05-02-2015 00:00,5,Anjeneyar,lorry,lorry,1,1,NA,NA,2,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+477,65,Simple,10-09-2015 00:00,20.3,Anjeneyar,Self fall,car,1,1,NA,NA,2,46,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+478,24,Fatal,11-03-2015 00:00,11.3,Anjeneyar,Self fall,lorry,NA,NA,1,NA,1,NA,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+479,73,Simple,18-10-2015 00:00,8.3,Anjeneyar,car,van,1,1,NA,NA,2,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+480,36,Simple,07-05-2015 00:00,6,Anjeneyar,car,lorry,1,1,NA,NA,2,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+481,82,Simple,29-11-2015 00:00,8,Anjeneyar,Self fall,lorry,1,1,NA,NA,2,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+482,81,Grives,27-11-2015 00:00,7.3,Anjeneyar,Self fall,car,7,7,NA,NA,14,20,20,17,26,25,24,NA,NA,NA,NA,NA,NA,NA,NA
+483,99,Fatal,29-12-2015 00:00,6,Anjeneyar,Pedestrian,lorry,NA,NA,1,NA,1,NA,56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+484,83,Simple,29-11-2015 00:00,14.3,Anjeneyar,Self fall,lorry,1,1,NA,NA,2,46,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+485,51,Fatal,07-12-2015 00:00,8.15,Anjeneyar,Passenger,car,1,1,NA,2,4,43,40,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+486,13,Simple,07-02-2015 00:00,5.3,Aavin milk booth Savulur,Tractor,van,1,1,NA,NA,2,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+487,57,Simple,14-08-2015 00:00,12,54th mile stone,lorry,lorry,1,1,NA,NA,2,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+488,75,Simple,01-11-2015 00:00,17,Vel Provisional store,two wheeler,Two Wheeler,2,1,NA,NA,3,50,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+489,47,Simple,08-06-2015 00:00,12,Police quarters,Self fall,Two Wheeler,1,1,NA,NA,2,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+490,68,Simple,07-10-2015 00:00,0.3,Madhiyan malagi Store Thoppur,car,lorry,1,1,NA,NA,2,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+491,44,Fatal,29-05-2015 00:00,8.3,Kengalapuram,Pedestrian,car,NA,NA,NA,1,1,NA,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+492,62,Simple,16-09-2015 00:00,16.3,Kattamodu Jn,two wheeler,Unknown,1,1,NA,NA,2,58,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+493,98,Fatal,23-12-2015 00:00,22.3,"Madhiyan’s grocery checkpost
+",Self fall,car,NA,NA,1,NA,1,NA,38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+494,54,Simple,25-07-2015 00:00,16,In front of Saminthan’s house,Pedestrian,Two Wheeler,1,1,NA,NA,2,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+495,71,Fatal,26-10-2015 00:00,18.3,In front of Madhav marbles,Pedestrian,Two Wheeler,NA,NA,1,NA,1,NA,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+496,66,Simple,10-09-2015 00:00,20.3,Check Post,lorry,van,1,1,NA,NA,2,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+497,72,Simple,29-10-2015 00:00,7.3,Behind Maniyathanahalli Govt. School.,two wheeler,van,1,1,NA,NA,2,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+498,80,Simple,17-11-2015 00:00,9.3,gengalapuram,two wheeler,Two Wheeler,1,1,NA,NA,2,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+499,31,Fatal,26-04-2015 00:00,23,Anjeneyar,Passenger,lorry,NA,NA,1,NA,1,NA,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+500,NA,Simple,04-01-2016 00:00,8,Sanisanthai,Pedestrian,Two Wheeler,NA,1,NA,NA,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+501,NA,Fatal,31-05-2016 00:00,13.15,Gengalapuram,Two Wheeler,Car,2,NA,NA,NA,3,22,22,35,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+502,NA,Simple,27-05-2016 00:00,19.3,Kurunchinagar,Pedestrian,Two Wheeler,NA,2,NA,NA,2,46,43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+503,NA,Simple,01-06-2016 00:00,6,Poorikkal,Pedestrian,Bus,NA,1,NA,NA,1,46,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+504,NA,Simple,03-06-2016 00:00,5,Anchinear Temple,Lorry,Unknown,1,NA,NA,NA,1,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+505,NA,Simple,08-05-2016 00:00,16.3,Anchinear Temple,Car,Van,2,1,NA,NA,3,39,7,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+506,NA,Simple,08-06-2016 00:00,3,Thoppur Jn,Van,Bus,1,NA,NA,NA,1,36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+507,NA,Fatal,11-06-2016 00:00,9,Palayampudur,Pedestrian,Unknown,NA,NA,NA,1,1,NA,NA,65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+508,NA,Fatal,11-06-2016 00:00,16.3,Ealagiri,Two Wheeler,Two Wheeler,1,NA,NA,1,2,24,NA,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+509,NA,Fatal,28-01-2016 00:00,20.3,Vellakkal,Pedestrian,Unknown,NA,NA,NA,NA,1,NA,NA,50,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+510,NA,Grevious,17-01-2016 00:00,8.5,Chekpost,Pedestrian,Car,NA,1,NA,NA,1,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+511,NA,Simple,15-01-2016 00:00,1,Vellakkal,Car,Car,1,NA,NA,NA,1,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+512,NA,Simple,21-01-2016 00:00,16.3,Palayampudur,Two Wheeler,Two Wheeler,NA,1,NA,NA,1,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+513,NA,Simple,28-01-2016 00:00,2.5,Thoppur,Bus,Mini Bus,2,NA,NA,NA,2,38,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+514,NA,RA,16-01-2016 00:00,12,Anchinear Temple,Car,Lorry,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+515,NA,RA,29-01-2016 00:00,2.5,Thoppur,Bus,Lorry,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+516,NA,Fatal,03-02-2016 00:00,20,Anchinear Temple,Auto,Lorry,3,3,NA,1,8,27,26,26,25,25,3,19,NA,NA,NA,1,NA,NA,NA
+517,NA,Grevious,06-01-2016 00:00,2,Anchinear Temple,Pedestrian,Two Wheeler,1,NA,NA,NA,1,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+518,NA,Fatal,17-02-2016 00:00,22.45,Chekpost,Two Wheeler,Car,1,NA,NA,NA,2,23,NA,22,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+519,NA,Fatal,23-02-2016 00:00,23,Anchinear Temple,Lorry,Self fall,NA,NA,NA,NA,1,NA,NA,37,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+520,NA,Simple,04-02-2016 00:00,20,Pagalpatti,Pedestrian,Two Wheeler,NA,1,NA,NA,1,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+521,NA,Simple,09-02-2016 00:00,3,Thoppur,Passenger,Car,2,NA,NA,NA,2,22,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+522,NA,Simple,12-02-2016 00:00,20,Thoppur,Bus,Private Bus,4,3,NA,NA,7,36,34,12,35,62,25,33,NA,NA,NA,NA,NA,NA,NA
+523,NA,Simple,11-02-2016 00:00,23,Earumapatti,Two Wheeler,Two Wheeler,3,NA,NA,NA,3,40,14,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+524,NA,Simple,13-06-2016 00:00,16.15,NA,Two Wheeler,Self fall,1,NA,NA,NA,1,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+525,NA,Simple,25-02-2016 00:00,17,Jarugu,Two Wheeler,TATA ACE,1,NA,NA,NA,1,43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+526,NA,Simple,28-02-2016 00:00,13.15,Anchinear Temple,Passenger,Car,3,1,NA,NA,4,31,33,40,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+527,NA,Simple,28-02-2016 00:00,15.3,Thoppur,Pedestrian,Two Wheeler,1,1,NA,NA,2,33,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+528,NA,Fatal,22-03-2016 00:00,17,Kaveri Nagar Well,Tractor,Self fall,NA,NA,NA,NA,1,NA,NA,32,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+529,NA,Fatal,23-03-2016 00:00,22.15,Kailapuram,Lorry,Self fall,NA,NA,NA,NA,1,NA,NA,35,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+530,NA,Simple,04-03-2016 00:00,8.5,Vellakkal,Two Wheeler,Lorry,1,NA,NA,NA,1,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+531,NA,Simple,06-03-2016 00:00,17,PulIampatti,Two Wheeler,Car,1,2,NA,NA,3,42,7,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+532,NA,Simple,13-03-2016 00:00,15,Thoppur,Lorry,Private Bus,1,NA,NA,NA,1,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+533,NA,Simple,15-03-2016 00:00,10.45,Palayampudur,Two Wheeler,Car,2,NA,NA,NA,2,43,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+534,NA,Simple,15-03-2016 00:00,15,Kattamedu,Lorry,Car,1,NA,NA,NA,1,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+535,NA,Simple,12-03-2016 00:00,13,Anchinear Temple,Pillion rider,Two Wheeler,2,NA,NA,NA,2,21,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+536,NA,Simple,22-03-2016 00:00,15.3,Gengalapuram,Two Wheeler,Car,2,NA,NA,NA,2,27,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+537,NA,Simple,23-03-2016 00:00,15,Anchinear Temple,Passenger,Private Bus,2,1,NA,NA,3,60,45,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+538,NA,RA,04-03-2016 00:00,16.4,Palayampudur,Bus,Van,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+539,NA,RA,16-02-2016 00:00,8,Thoppur,Lorry,Unknown,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+540,NA,Fatal,25-04-2016 00:00,13.45,Anchinear Temple,Two Wheeler,Lorry,1,NA,NA,NA,2,48,NA,47,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+541,NA,Fatal,28-04-2016 00:00,7,Kurunchinagar,Two Wheeler,Self fall,NA,NA,NA,NA,1,NA,NA,52,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+542,NA,Simple,07-04-2016 00:00,14.15,Bagalpatti,Car,Self fall,2,2,NA,NA,4,52,16,44,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+543,NA,Simple,10-04-2016 00:00,4,Anchinear Temple,Lorry,Self fall,1,NA,NA,NA,1,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+544,NA,Simple,12-04-2016 00:00,8,Thoppur,Two Wheeler,Car,1,NA,NA,NA,1,57,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+545,NA,Simple,13-04-2016 00:00,19,Thoppur,Pedestrian,Two Wheeler,NA,1,NA,NA,1,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+546,NA,Simple,15-04-2016 00:00,17.45,Anchinear Temple,Auto,TNSTC Bus,1,NA,NA,NA,1,73,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+547,NA,Simple,21-04-2016 00:00,6,Thoppur,Two Wheeler,Self fall,1,NA,NA,NA,1,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+548,NA,Fatal,04-05-2016 00:00,19.3,Thoppur,Two Wheeler,Lorry,1,1,NA,1,4,42,8,5,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+549,NA,Fatal,16-05-2016 00:00,11,Palayampudur,Pedestrian,Car,NA,NA,NA,1,1,NA,NA,58,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+550,NA,Fatal,16-05-2016 00:00,15.3,Vellakkal,Two Wheeler,Car,1,NA,NA,NA,2,30,NA,36,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+551,NA,Fatal,18-05-2016 00:00,21.3,Kattamedu,Car,Lorry,3,4,NA,NA,9,73,22,73,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA
+552,NA,Fatal,21-05-2016 00:00,13.3,Thoppur,Two Wheeler,Lorry,NA,NA,NA,NA,1,NA,NA,30,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+553,NA,Fatal,28-05-2016 00:00,5,Thombaragampatti,Car,Lorry,4,4,NA,NA,9,42,22,7,6,40,18,48,12,32,NA,1,NA,NA,NA
+554,NA,Fatal,25-05-2016 00:00,19,Bolampatti,Two Wheeler,Two Wheeler,NA,NA,NA,NA,1,NA,NA,54,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+555,NA,RA,23-05-2016 00:00,10.45,Bagalpatti,Car,Lorry,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+556,NA,Simple,29-04-2016 00:00,7.5,Thoppur,Two Wheeler,Car,1,NA,NA,NA,1,52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+557,NA,Simple,15-05-2016 00:00,10.45,Thoppur,Two Wheeler,Tractor,2,NA,NA,NA,2,19,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+558,NA,Simple,21-04-2016 00:00,6,Thoppur,Two Wheeler,Lorry,1,NA,NA,NA,1,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+559,NA,Simple,07-05-2016 00:00,4,Thoppur,Lorry,Self fall,1,NA,NA,NA,1,53,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+560,NA,RA,24-05-2016 00:00,9,Thoppur,Lorry,Lorry,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+561,NA,Simple,03-07-2016 00:00,9,Bagalpatti,Two Wheeler,Lorry,2,NA,NA,NA,2,18,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+562,NA,Simple,08-07-2016 00:00,21,Kurinchi Nager,Two Wheeler,Car,1,NA,NA,NA,1,61,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+563,NA,Simple,14-07-2016 00:00,19.45,Palayampudur,Two Wheeler,Tractor,1,NA,NA,NA,1,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+564,NA,Simple,18-07-2016 00:00,9,Vellakkal,Pedestrian,Two Wheeler,1,NA,NA,NA,1,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+565,NA,Simple,20-07-2016 00:00,19,Palayampudur,Two Wheeler,Car,2,NA,NA,NA,2,38,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+566,NA,Simple,20-07-2016 00:00,11.3,Thoppur,Lorry,Ambulance car,3,NA,NA,NA,3,35,25,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+567,NA,Fatal,26-07-2016 00:00,16.45,Thombaragampatti,Two Wheeler,Car,NA,NA,NA,NA,1,NA,NA,56,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+568,NA,Simple,01-08-2016 00:00,13.05,Thoppur,Passenger of lorry,Lorry,NA,2,NA,NA,2,20,44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+569,NA,Simple,04-08-2016 00:00,9,Thoppur,Lorry,Lorry,1,NA,NA,NA,1,39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+570,NA,Simple,04-08-2016 00:00,9.5,Thoppur,Lorry,Lorry,1,NA,NA,NA,1,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+571,NA,Simple,05-08-2016 00:00,20.3,Kettupatti,Two Wheeler,Car,1,NA,NA,NA,1,38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+572,NA,Simple,06-08-2016 00:00,11,Thoppur,Two Wheeler,Car,1,NA,NA,NA,1,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+573,NA,Fatal,11-08-2016 00:00,9.5,Poovalmadu,Two Wheeler,Lorry,NA,NA,NA,NA,1,NA,NA,26,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+574,NA,Simple,14-08-2016 00:00,22.15,Thoppur,Two Wheeler,Lorry,1,NA,NA,NA,1,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+575,NA,Simple,11-08-2016 00:00,20.3,L&T,Two Wheeler,Two Wheeler,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+576,NA,Simple,15-08-2016 00:00,16.3,Kattamedu,Unknown,Omini car,1,NA,NA,NA,1,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+577,NA,Simple,21-08-2016 00:00,7,Thoppur,Two Wheeler,Car,NA,1,NA,NA,1,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+578,NA,Simple,28-08-2016 00:00,10.2,Thoppur,Bus,Lorry,1,NA,NA,NA,1,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+579,NA,Simple,26-08-2016 00:00,6,Palayampudur,Two Wheeler,Two Wheeler,1,NA,NA,NA,1,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+580,NA,Simple,06-09-2016 00:00,18.15,Ellukuzhi,Two Wheeler,Tractor,1,NA,NA,NA,1,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+581,NA,Fatal,16-08-2016 00:00,9,Savulur,Pedestrian,Two Wheeler,1,NA,NA,1,2,29,NA,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+582,NA,Simple,18-09-2016 00:00,14.15,Savalur,Two Wheeler,Lorry,1,NA,NA,NA,1,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+583,NA,Simple,19-09-2016 00:00,6,Kurunchinagar,Pedestrian,Car,1,NA,NA,NA,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+584,NA,Simple,20-09-2016 00:00,12,Karuppunayakanpatti,Two Wheeler,Two Wheeler,1,NA,NA,NA,1,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+585,NA,Simple,27-09-2016 00:00,17,Thoppur,Two Wheeler,Lorry,1,NA,NA,NA,1,76,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+586,NA,Simple,02-10-2016 00:00,16.1,Tollplzsaw,Two Wheeler,Lorry,1,NA,NA,NA,1,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+587,NA,Simple,07-10-2016 00:00,19.3,Sanisandai,Pedestrian,Two Wheeler,NA,1,NA,NA,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+588,NA,Simple,17-10-2016 00:00,19.15,Sesampatti,Two Wheeler,Two Wheeler,1,NA,NA,NA,1,41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+589,NA,Fatal,25-10-2016 00:00,9,Uchimaram,Auto,Auto,2,NA,NA,NA,3,60,70,NA,57,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+590,NA,Fatal,28-10-2016 00:00,7,Kurunchinagar,Two Wheeler,Car,NA,NA,NA,NA,1,NA,NA,60,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+591,NA,Fatal,02-11-2016 00:00,19,Palayampudur,Two Wheeler,Lorry,NA,NA,NA,NA,1,NA,NA,53,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+592,NA,Simple,02-11-2016 00:00,21,Thoppur,Pedestrian,Car,1,NA,NA,NA,1,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+593,NA,Simple,05-11-2016 00:00,11.3,Vellakall,Two Wheeler,Tipper Lorry,1,NA,NA,NA,1,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+594,NA,Simple,07-11-2016 00:00,14,Thoppur,Lorry,Two Wheeler,1,NA,NA,NA,1,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+595,NA,Simple,11-11-2016 00:00,19.3,Thoppur,Self Fall,Lorry,1,NA,NA,NA,1,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+596,NA,Simple,15-11-2016 00:00,4,Thoppur,Self Fall,Lorry,2,NA,NA,NA,2,26,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+597,NA,Simple,15-11-2016 00:00,5,Thombaragampatti,Cycle,Car,2,NA,NA,NA,2,25,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+598,NA,Simple,17-11-2016 00:00,12.3,Mearkathiyan kotti,Two Wheeler,Car,1,NA,NA,NA,1,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+599,NA,Grevious,25-11-2016 00:00,11.3,Mattukaranur,Passenger,Car,7,NA,NA,NA,7,25,17,35,19,19,18,19,NA,NA,NA,NA,NA,NA,NA
+600,NA,Simple,26-11-2016 00:00,2,Thoppur,Passenger,Lorry,2,NA,NA,NA,2,22,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+601,NA,Fatal,05-12-2016 00:00,18.3,Thoppur,Two Wheeler,Lorry,2,1,NA,NA,5,27,19,24,NA,24,24,NA,NA,NA,NA,2,NA,NA,NA
+602,NA,Fatal,06-12-2016 00:00,15.45,Palayampudur,Two Wheeler,Car,NA,NA,NA,NA,1,NA,NA,36,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+603,NA,Simple,15-12-2016 00:00,12.15,Bagalpatti,Cycle,Lorry,2,NA,NA,NA,2,15,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+604,NA,Simple,16-12-2016 00:00,1.5,Toll Plaza,NA,Van,2,NA,NA,NA,2,23,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+605,NA,Simple,29-12-2016 00:00,3,Thoppur,Passenger,Van,4,6,NA,NA,10,50,3,55,54,40,47,25,33,22,39,NA,NA,NA,NA
+606,48,Injury,26-06-2017 00:00,9,Commercial Check Post JN Road,Two Wheeler,Car,1,0,NA,NA,1,NA,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+607,8,Injury,26-01-2017 00:00,16,Kattamedu,Passenger,Bus,1,2,NA,NA,3,NA,40,32,54,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+608,7,Injury,25-01-2017 00:00,17.3,Sani sandhai,Passenger,Lorry,1,0,NA,NA,1,NA,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+609,68,Fatal,13-09-2017 00:00,4,Anchanayar Temple,Lorry,Bus,NA,NA,1,0,1,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+610,55,Injury,22-07-2017 00:00,16.3,Anjaneyar Temple,Unknown,Lorry,1,0,NA,NA,1,NA,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+611,56,Injury,07-08-2017 00:00,22,Anjaneyar Temple,Unknown,Lorry,1,0,NA,NA,1,NA,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+612,1,Fatal,01-01-2017 00:00,5,Anjeneyar Temple,Two Wheeler,Two Wheeler,NA,0,1,0,1,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+613,5,Fatal,26-01-2017 00:00,11.3,Anjeneyar Temple,Passenger,Lorry,2,0,1,0,3,21,19,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+614,6,Fatal,26-01-2017 00:00,12.3,Anjeneyar Temple,Two Wheeler,Two Wheeler,1,0,1,0,2,24,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+615,12,Injury,09-02-2017 00:00,0.3,Anjeneyar Temple,Bus,Lorry,2,0,NA,NA,2,NA,21,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+616,13,Fatal,14-02-2017 00:00,16.3,Anjeneyar Temple,Unknown,Lorry,4,0,1,0,5,53,28,38,24,48,NA,NA,NA,NA,NA,NA,NA,NA,NA
+617,19,Injury,13-03-2017 00:00,22.3,Anjeneyar Temple,Passenger,Van,1,0,NA,NA,1,NA,44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+618,23,Injury,10-04-2017 00:00,6.35,Anjeneyar Temple,Bus,Lorry,1,NA,NA,NA,1,NA,41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+619,31,Injury,29-04-2017 00:00,7.45,Anjeneyar Temple,Lorry,Two Wheeler,1,NA,NA,NA,1,NA,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+620,35,Injury,07-05-2017 00:00,20,Anjeneyar Temple,Self Fall,Lorry,1,NA,NA,NA,1,NA,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+621,42,Fatal,10-06-2017 00:00,12,Bagalpatti,Two Wheeler,Car,NA,NA,1,0,1,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+622,50,Injury,08-06-2017 00:00,9.3,Bagalpatti,Van,Pedestrian,1,0,NA,NA,1,NA,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+623,18,Fatal,14-03-2017 00:00,5.3,Bus Stop,Pedestrian,Unknown Vehicle,NA,NA,1,0,1,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+624,20,Injury,18-03-2017 00:00,10.3,Bus Stop,Pedestrian,Car,1,0,NA,NA,1,NA,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+625,21,Injury,28-03-2017 00:00,13,Bus Stop,Pedestrian,Car,1,0,NA,NA,1,NA,43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+626,9,Injury,26-01-2017 00:00,15.3,check post,Passenger,Car,2,0,NA,NA,2,NA,40,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+627,10,Injury,26-01-2017 00:00,6.15,check post,Pedestrian,Car,1,NA,NA,NA,1,NA,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+628,52,Injury,07-07-2017 00:00,14.3,Dhoparagampatti,Pillian raider,Tractor,1,1,NA,NA,2,NA,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+629,59,Injury,19-08-2017 00:00,9,"In front of Lorry booking Office, Thoppur Toll Plaza, 
+Salem to Dharmapuri Road.
+
+(7 KM North)
+",Car,Lorry,2,0,NA,NA,2,NA,28,38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+630,72,Injury,04-10-2017 00:00,12,"In front of one Dhanapal’s house,
+Dharmapuri to Salem road.
+",Two Wheeler,Lorry,1,0,NA,NA,1,NA,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+631,76,Injury,27-10-2017 00:00,11.45,"In front of the park,
+Kattamedu to Vellakkal road.
+",Two Wheeler,Unknown Vehicle,2,0,NA,NA,2,NA,28,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+632,64,Injury,28-08-2017 00:00,16.3,"In groove, Opposite Thoppur Police Quarters,
+Bangalore to Salem main road.
+
+(1 Km North)
+",Passenger,Lorry,2,0,NA,NA,2,NA,26,41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+633,89,Injury,06-12-2017 00:00,16.3,"In-front of Lakshmi Narayana polytechnic college.
+Dharmapuri to Salem road
+",Pedestrian,Two Wheeler,3,0,NA,NA,3,NA,47,30,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+634,90,Injury,08-12-2017 00:00,21.5,"In-front of PMP mill, Palayampudhur,
+Salem to Dharmapuri NH road.
+",Two Wheeler,Lorry,1,0,NA,NA,1,NA,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+635,17,Injury,05-03-2017 00:00,5.3,Jn road,Two Wheeler,Bus,1,0,NA,NA,1,NA,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+636,30,Fatal,27-04-2017 00:00,11.15,Kattamedu,Pedestrian,Lorry,NA,NA,1,NA,1,47,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+637,40,Injury,27-05-2017 00:00,23.55,Kattamedu,Passenger,Lorry,2,NA,NA,NA,2,NA,43,36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+638,57,Injury,13-08-2017 00:00,8.15,Kattamedu,Passenger,Bus,3,0,NA,NA,3,NA,57,27,46,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+639,69,Fatal,18-09-2017 00:00,5,Kattamedu,Lorry,Bus,1,0,2,0,3,25,32,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+640,79,Injury,15-10-2017 00:00,15,Kattamedu Dharmapuri To Salem,Two Wheeler,Lorry,1,0,NA,NA,1,NA,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+641,49,Injury,07-06-2017 00:00,16,Kattumedu,Car,Car,4,0,NA,NA,4,NA,14,14,25,49,NA,NA,NA,NA,NA,NA,NA,NA,NA
+642,28,Injury,23-04-2017 00:00,5.45,Kengalapuram,Pedestrian,Two Wheeler,NA,1,NA,NA,1,NA,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+643,29,Injury,19-04-2017 00:00,11,Kengalapuram,Two Wheeler,Two Wheeler,1,NA,NA,NA,1,NA,36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+644,88,Injury,05-12-2017 00:00,11.2,Kengalapuram,Self Fall,Two Wheeler,3,1,NA,NA,4,NA,36,32,10,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+645,16,Injury,22-02-2017 00:00,10.5,KPN Petrol bunk,Passenger,Car,1,1,NA,NA,2,NA,72,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+646,46,Injury,18-06-2017 00:00,14,"Kurinchi Nagar
+",Two Wheeler,Lorry,2,0,NA,NA,2,NA,27,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+647,14,Fatal,18-02-2017 00:00,1.45,Lakshmi Narayana Polytechnic College,Two Wheeler,Unknown Vehicle,NA,NA,1,0,1,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+648,15,Injury,18-02-2017 00:00,18.3,"Madhaiyan grocery shop
+",Pedestrian,Van,0,1,NA,NA,1,NA,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+649,45,Fatal,16-06-2017 00:00,19,Nallur Mariyamman Temple,Pedestrian,Lorry,NA,NA,1,NA,1,46,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+650,87,Injury,01-12-2017 00:00,22.3,Anchaneyar temple,Lorry,Car,2,1,NA,NA,3,NA,35,35,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+651,95,Fatal,20-12-2017 00:00,3,Anjeneyar Temple,Self Fall,Lorry,NA,NA,1,0,1,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+652,73,Injury,08-10-2017 00:00,12.3,"Check post
+",Passenger,Lorry,0,1,NA,NA,1,NA,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+653,81,Injury,03-11-2017 00:00,12.3,Kanavai bridge,Lorry,Lorry,2,0,NA,NA,2,NA,55,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+654,84,Fatal,25-11-2017 00:00,9.3,"Kattamedu
+",Self Fall,Two Wheeler,NA,NA,1,0,1,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+655,74,Injury,11-10-2017 00:00,11,Palayampudur,Tempo,Tempo,2,0,NA,NA,2,NA,23,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+656,85,Injury,26-11-2017 00:00,17.45,Palayampudur,Two Wheeler,Car,2,0,NA,NA,2,NA,75,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+657,92,Fatal,12-12-2017 00:00,8.3,Palayampudur,Two Wheeler,Lorry,1,0,1,0,2,30,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+658,91,Injury,09-12-2017 00:00,7.15,Thombaragampatti,Two Wheeler,Car,1,0,NA,NA,1,NA,48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+659,61,Fatal,27-08-2017 00:00,17.1,Police Quarters,Two Wheeler,Lorry,1,0,1,1,3,31,1,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+660,94,Injury,15-12-2017 00:00,13,sanisanthai,Pedestrian,Two Wheeler,1,0,NA,NA,1,NA,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+661,93,Fatal,13-12-2017 00:00,5,Sowlur bus stop,Pedestrian,Car,NA,NA,1,0,1,65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+662,86,Injury,01-12-2017 00:00,18,Thombarakampatti,Unknown Vechile,Lorry,4,1,NA,NA,5,NA,37,36,10,7,25,NA,NA,NA,NA,NA,NA,NA,NA
+663,80,Injury,03-11-2017 00:00,20,Anjaneyar Temple,Unknown,Car,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+664,71,Injury,02-10-2017 00:00,19.3,Vellakkal,Pedestrian,Two Wheeler,0,1,NA,NA,1,NA,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+665,82,Injury,01-11-2017 00:00,12.3,Vellakkal,Two Wheeler,Auto,1,0,NA,NA,1,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+666,60,Injury,20-08-2017 00:00,19.3,Gengalapuram Service Road,Two Wheeler,Two Wheeler,1,0,NA,NA,1,NA,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+667,77,Injury,27-10-2017 00:00,18.15,"Amman Bakery
+",Pedestrian,Two Wheeler,1,0,NA,NA,1,NA,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+668,75,Injury,13-10-2017 00:00,7.3,Anchaneyar Temple,Van,Unknown Vehicle,1,0,NA,NA,1,NA,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+669,83,Fatal,10-11-2017 00:00,22,Thoppur Check post,Pedestrian,Lorry,NA,NA,1,0,1,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+670,2,Injury,08-01-2017 00:00,19.3,L&T Lorry parking,Pedestrian,Two Wheeler,1,0,NA,NA,1,NA,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+671,4,Injury,17-01-2017 00:00,19.45,L&T Lorry parking,Two Wheeler,Two Wheeler,1,1,NA,NA,2,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+672,22,Fatal,01-04-2017 00:00,16,Over bridge,Passenger,Two Wheeler,NA,NA,2,NA,2,19,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+673,63,Fatal,31-08-2017 00:00,8.3,Pagalahalli,Unknown,Two Wheeler,NA,NA,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+674,70,Injury,27-09-2017 00:00,14,Pagalpatti,Two Wheeler,Unknown Vehicle,1,0,NA,NA,1,NA,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+675,62,Injury,25-08-2017 00:00,16.3,Palayam Puthur,Two Wheeler,Two Wheeler,1,0,NA,NA,1,NA,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+676,24,Injury,09-04-2017 00:00,3,Palayam Puthur,Two Wheeler,Car,2,NA,NA,NA,2,NA,39,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+677,27,Injury,14-04-2017 00:00,7.3,Palayam Puthur,Two Wheeler,Two Wheeler,1,NA,NA,NA,1,NA,68,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+678,32,Injury,29-04-2017 00:00,11.3,Palayam Puthur,Two Wheeler,Unknown vehicle,1,NA,NA,NA,1,NA,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+679,36,Injury,05-05-2017 00:00,7,Palayam Puthur,Van,Two Wheeler,1,NA,NA,NA,1,NA,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+680,3,Injury,16-01-2017 00:00,21,"Savulur
+",Two Wheeler,Two Wheeler,2,0,NA,NA,2,NA,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+681,54,Injury,09-07-2017 00:00,21.45,Sesampatti,Pedestrian,Car,2,0,NA,NA,2,NA,65,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+682,53,Injury,07-07-2017 00:00,17.3,Sowlur,Pedestrian,Two Wheeler,1,1,NA,NA,2,NA,63,65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+683,44,Injury,08-06-2017 00:00,7,Thombarakampatty,Two Wheeler,Car,1,0,NA,NA,1,NA,65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+684,38,Injury,14-05-2017 00:00,21,Thombarakampatty,Two Wheeler,Lorry,2,NA,NA,NA,2,NA,26,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+685,66,Fatal,11-09-2017 00:00,6,Thombarakampatty,Pedestrian,Car,3,0,2,0,5,45,55,34,66,39,NA,NA,NA,NA,NA,NA,NA,NA,NA
+686,78,Injury,17-07-2017 00:00,2.15,Anjainayar Temple,Self Fall,Two Wheeler,1,0,NA,NA,1,NA,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+687,58,Injury,17-08-2017 00:00,9,Thoppur JN,Two Wheeler,Two Wheeler,2,0,NA,NA,2,NA,51,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+688,33,Injury,02-05-2017 00:00,2,Thoppur Kattamedu,Passenger,Bus,NA,1,NA,NA,1,NA,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+689,41,Injury,28-05-2017 00:00,10.1,Police Quarters,Two Wheeler,Car,2,NA,NA,NA,2,NA,50,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+690,47,Injury,19-06-2017 00:00,17,Police Quarters,Two Wheeler,Lorry,1,1,NA,NA,2,NA,65,58,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+691,11,Injury,06-02-2017 00:00,23.3,"Toll Plaza
+",Passenger,Car,4,2,NA,NA,6,NA,28,27,14,12,38,40,NA,NA,NA,NA,NA,NA,NA
+692,26,Injury,16-04-2017 00:00,23,"Toll Plaza
+",Two Wheeler,Car,2,NA,NA,NA,2,NA,54,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+693,37,Injury,13-05-2017 00:00,17,"Toll Plaza
+",Two Wheeler,Lorry,2,NA,NA,NA,2,NA,26,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+694,39,Injury,19-05-2017 00:00,20.3,"Toll Plaza
+",Passenger,Travels,1,6,NA,NA,7,NA,14,35,3,14,32,32,38,NA,NA,NA,NA,NA,NA
+695,67,Fatal,13-09-2017 00:00,11.2,Vellakall,Two Wheeler,Two Wheeler,NA,NA,1,0,1,38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+696,65,Fatal,09-09-2017 00:00,1.1,Vellakall,Lorry,Lorry,0,0,2,NA,2,24,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+697,25,Injury,13-04-2017 00:00,18,Vellakkall,Two Wheeler,Car,1,NA,NA,NA,1,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+698,34,Injury,01-05-2017 00:00,20,Vellakkall,Two Wheeler,Car,3,NA,NA,NA,3,NA,20,20,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+699,43,Fatal,11-06-2017 00:00,11.45,Vellakkall,Two Wheeler,Unknown Vehicle,NA,NA,1,0,1,59,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+700,51,Injury,04-07-2017 00:00,13.3,"Vellakkall
+",Two Wheeler,Car,1,0,NA,NA,1,NA,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+701,1,Fatal,31-12-2017 00:00,19.3,"Gengalapuram
+",Pedestrion,Car,0,0,1,0,0,0,0,37,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+702,8,Injury,18-01-2018 00:00,10.3,"Gundumedu
+
+",Two Wheeler,Two Wheeler,0,0,0,0,0,34,16,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+703,7,Injury,12-01-2018 00:00,13.3,"Agricultural Bank
+",Two Wheeler,Lorry,1,0,0,0,1,35,0,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+704,44,Injury,13-05-2018 00:00,19.15,Palayampudhur,Two Wheeler,Two Wheeler,1,1,0,0,1,29,22,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+705,NA,Fatal,13-10-2018 00:00,3.3,Palayampudhur,Self fall,Car,2,NA,1,NA,2,19,19,NA,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+706,49,Injury,25-05-2018 00:00,8,"Jothi thirumana mandapam
+",Bus,Lorry,1,0,0,0,1,44,28,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+707,53,Injury,10-06-2018 00:00,9.3,"Checkpost
+",Two Wheeler,Two Wheeler,1,0,0,0,1,78,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+708,5,Injury,10-01-2018 00:00,3,"Pudur
+",Self fall,Car,2,0,0,0,2,33,28,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+709,NA,Injury,08-09-2018 00:00,10.3,"Thombrakampatti
+",Two Wheeler,Car,1,NA,NA,NA,1,30,NA,NA,NA,55,NA,NA,NA,NA,NA,NA,NA,NA,NA
+710,NA,Injury,01-10-2018 00:00,9.4,Toll plaza,Bus,Lorry,1,1,NA,NA,1,47,39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+711,75,Injury,24-08-2018 00:00,5.3,Kattamedu,Lorry,Lorry,1,NA,NA,NA,1,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+712,31,Injury,20-03-2018 00:00,14,Akkumariyamman temple,Pedestrion,Two Wheeler,1,0,0,0,1,65,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+713,NA,Injury,17-10-2018 00:00,13.15,Anandhavan bhavan hotel,Car,Van,NA,1,NA,NA,0,NA,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+714,71,Injury,15-08-2018 00:00,15,Anjaneyar,Lorry,Lorry,1,NA,NA,NA,1,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+715,NA,Injury,24-07-2018 00:00,15.3,Anjaneyar,Self fall,Van,1,NA,NA,NA,1,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+716,76,Injury,25-08-2018 00:00,16.3,Anjaneyar,Van,Lorry,1,NA,NA,NA,1,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+717,3,Injury,02-01-2018 00:00,19.3,Anjaneyar,Two Wheeler,Two Wheeler,2,0,0,0,2,23,30,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+718,48,Injury,24-05-2018 00:00,23.3,Anjaneyar,Self fall,Lorry,1,0,0,0,1,50,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+719,NA,Fatal,14-10-2018 00:00,4,Anjaneyar,Lorry,Lorry,NA,NA,1,NA,0,NA,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+720,NA,Injury,19-09-2018 00:00,21.45,Anjaneyar,Self fall,Lorry,1,NA,NA,NA,1,62,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+721,55,RA,15-06-2018 00:00,22.3,Anjaneyar,Car,Lorry,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+722,21,Injury,17-02-2018 00:00,5.3,Anjaneyar,Lorry,Car,1,0,0,0,1,24,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+723,23,Injury,19-02-2018 00:00,12,Anjaneyar,Pedestrion,Lorry,1,0,0,0,1,20,26,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+724,11,Injury,24-01-2018 00:00,20.3,Anjaneyar,Four Wheeler,Lorry,0,1,0,0,0,0,29,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+725,19,Fatal,17-02-2018 00:00,5.15,Anjaneyar,Car,Lorry,1,0,0,1,1,27,0,0,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+726,39,Injury,11-04-2018 00:00,16,Anjaneyar,Self fall,Lorry,2,0,0,0,2,35,36,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+727,27,Injury,07-03-2018 00:00,3.3,Anjaneyar,Self fall,Van,2,0,0,0,2,43,25,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+728,57,Injury,19-06-2018 00:00,7.3,Anjaneyar,Self fall,Van,3,1,NA,NA,3,50,26,50,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+729,59,Injury,25-06-2018 00:00,4,Anjaneyar,Lorry,Lorry,1,NA,NA,NA,1,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+730,50,Injury,27-05-2018 00:00,12.45,Anjaneyar,Self fall,Lorry,2,0,0,0,2,43,45,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+731,28,Injury,13-03-2018 00:00,22,Anjaneyar,Two Wheeler,Van,2,0,0,0,2,34,40,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+732,NA,Injury,15-12-2018 00:00,5.3,Anjaneyar,Self fall,Lorry,1,1,NA,NA,1,23,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+733,16,Fatal,06-02-2018 00:00,5.1,Anjaneyar,Auto,Unknown Vehicle,0,0,1,0,0,0,0,30,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+734,6,Injury,10-01-2018 00:00,20.3,Anjaneyar,Bus,Lorry,1,0,0,0,1,38,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+735,NA,RA,18-12-2018 00:00,23.3,Anjaneyar,Lorry,Lorry,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+736,63,Injury,11-07-2018 00:00,1.15,"Bhagalahalli Colony
+",Pedestrion,Unknown Vehicle,1,NA,NA,NA,1,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+737,NA,Injury,27-09-2018 00:00,8.3,Thombaragampatti,Pedestrion,Two wheeler,1,NA,NA,NA,1,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+738,32,Injury,20-03-2018 00:00,21.3,"Seasampatti
+
+",Pedestrion,Lorry,1,0,0,0,1,44,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+739,NA,Fatal,10-11-2018 00:00,11.3,"Check post
+",Two Wheeler,Van,NA,NA,1,NA,0,NA,NA,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+740,60,Injury,03-07-2018 00:00,11,double bridge,Van,Lorry,2,NA,NA,NA,2,19,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+741,NA,Fatal,23-11-2018 00:00,16.1,Gengalapuram,Self fall,Two wheeler,NA,NA,1,NA,0,NA,NA,52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+742,67,Injury,17-07-2018 00:00,15,"Manikkamputhur road
+",Two Wheeler,Van,2,NA,NA,NA,2,40,52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+743,38,Injury,07-04-2018 00:00,19,"Near Govt. School
+",Self fall,Auto,1,0,0,0,1,27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+744,37,Injury,09-04-2018 00:00,7,Near Jarugu Colony,Self fall,Two Wheeler,2,0,0,0,2,42,48,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+745,69,Fatal,02-08-2018 00:00,23.1,"Kattamedu
+
+",Two Wheeler,Van,NA,NA,1,NA,0,NA,NA,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+746,NA,Injury,10-09-2018 00:00,6.45,"Keelkottavur
+",Pedestrion,Car,2,3,NA,NA,2,34,29,37,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+747,26,Injury,26-02-2018 00:00,16.4,Gengalapuram,Two Wheeler,Two Wheeler,1,0,0,0,1,30,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+748,43,Injury,04-05-2018 00:00,20.3,Gengalapuram,Pedestrion,Two Wheeler,0,1,0,0,0,0,32,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+749,18,Injury,28-01-2018 00:00,3,Gengalapuram,Pedestrion,Car,0,1,0,0,0,0,65,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+750,30,Injury,17-03-2018 00:00,10,Lakshmi-Narayana Polytechnic college,Two Wheeler,Bus,1,0,0,0,1,34,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+751,68,Fatal,30-07-2018 00:00,21.3,Madhav Marbles,Car,Lorry,NA,NA,1,NA,0,NA,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+752,41,Injury,24-04-2018 00:00,14.45,"Melkottavur bus stop
+",Two Wheeler,Lorry,1,0,0,0,1,24,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+753,NA,Fatal,06-11-2018 00:00,20.3,Mullai nagar,Two Wheeler,Two wheeler,NA,NA,1,NA,0,NA,NA,57,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+754,NA,Injury,16-10-2018 00:00,16,"Gengalapuram
+",Two Wheeler,Two wheeler,1,NA,NA,NA,1,46,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+755,NA,Injury,23-08-2018 00:00,16,Omalnatham,Two Wheeler,Van,1,NA,NA,NA,1,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+756,NA,Fatal,04-11-2018 00:00,8.3,"Bhagalahalli fly over bridge
+",Pedestrion,Lorry,NA,NA,NA,1,0,NA,NA,NA,68,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+757,24,Injury,19-02-2018 00:00,19,"Near one Ramesh’s house,Jarugu,
+Arakasanahalli to Isalpatti Road.
+",Pedestrion,Two Wheeler,1,0,0,0,1,50,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+758,35,Fatal,10-04-2018 00:00,14.4,"pagalpatti Bus Stop
+",Pedestrion,Lorry,0,0,1,0,0,0,0,54,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+759,22,Injury,21-02-2018 00:00,9,Palayam pudur,Two Wheeler,Car,1,0,0,0,1,22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+760,40,Injury,13-04-2018 00:00,14.3,Palayam pudur,Two Wheeler,Lorry,2,0,0,0,2,25,39,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+761,33,Injury,25-03-2018 00:00,9.2,Palayam pudur,Lorry,Car,1,0,0,0,1,52,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+762,14,Injury,31-01-2018 00:00,17,Palayam pudur,Two Wheeler,Van,1,0,0,0,1,19,0,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+763,51,Injury,28-05-2018 00:00,10,"Jarugu
+",Two Wheeler,Two Wheeler,1,0,0,0,1,50,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+764,42,Injury,04-05-2018 00:00,7.3,"Palayampudhur
+",Two Wheeler,Two Wheeler,1,0,0,0,1,25,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+765,61,Injury,04-07-2018 00:00,10.2,police quarters,Two Wheeler,Car,2,NA,NA,NA,2,17,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+766,52,Injury,31-05-2018 00:00,9.3,police quarters,Self fall,Van,2,0,0,0,2,23,25,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+767,NA,Injury,11-12-2018 00:00,19.3,"Raja lakshmi petrol bunk
+",Pedestrian,Two wheeler,1,NA,NA,NA,1,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+768,NA,Injury,05-12-2018 00:00,17,Manickampudhur,Bus,Van,1,NA,NA,NA,1,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+769,10,Injury,24-01-2018 00:00,15.5,"Rajalakshmi Petrol Bunk
+",Pedestrion,Lorry,0,1,0,0,0,0,48,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+770,62,Fatal,09-07-2018 00:00,15,"Rajalakshmi Petrol Bunk
+",Pedestrion,Lorry,NA,NA,NA,1,0,NA,NA,NA,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+771,70,Injury,06-08-2018 00:00,12,"Rajendran Poultry farm
+",Two Wheeler,Bus,2,NA,NA,NA,2,45,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+772,65,Injury,12-07-2018 00:00,8,Kaligoundenkottai,Two Wheeler,Van,1,NA,NA,NA,1,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+773,47,Injury,20-05-2018 00:00,18.3,"Sani Sandai
+",Cyclist,Car,1,0,0,0,1,35,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+774,54,Injury,11-06-2018 00:00,22,"Sarvesh in hotel
+",Two Wheeler,Lorry,2,0,0,0,2,40,55,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+775,34,Injury,28-03-2018 00:00,19.45,SK Pudhur,Two Wheeler,Two Wheeler,1,NA,0,0,1,47,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+776,NA,Injury,04-09-2018 00:00,6.4,Sowlur bus stop,Two Wheeler,Car,1,NA,NA,NA,1,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+777,NA,Injury,09-12-2018 00:00,16.3,"Thombarakampatti
+
+",Two Wheeler,Unknown Car,2,NA,NA,NA,2,44,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+778,NA,Injury,30-09-2018 00:00,18.3,"Toll plaza
+",Two Wheeler,Car,1,NA,NA,NA,1,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+779,12,Injury,26-01-2018 00:00,10.3,Check post,Two Wheeler,Lorry,0,0,0,0,0,0,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+780,64,Fatal,11-07-2018 00:00,23,Check post,Car,One Parking Lorry,2,1,1,NA,2,58,11,27,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+781,9,Injury,22-01-2018 00:00,10.3,"Kanavai bridge
+",Two Wheeler,Van,1,0,0,0,1,51,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+782,66,Injury,13-07-2018 00:00,4.4,"Thoppur quarters
+",Lorry,Lorry,1,NA,NA,NA,1,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+783,36,Injury,09-04-2018 00:00,1,"Thoppur Toll Plaza
+",Self fall,Lorry,2,0,0,0,2,42,35,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+784,13,Injury,28-01-2018 00:00,20.5,"Thoppur Toll Plaza
+",Lorry,Lorry,1,0,0,0,1,40,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+785,NA,Injury,13-11-2018 00:00,11.45,"Thoppur Toll Plaza
+",Lorry,Car,1,NA,NA,NA,1,41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+786,NA,Fatal,12-10-2018 00:00,20.3,Vellakkal,Self fall,Van,NA,NA,1,NA,0,NA,NA,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+787,29,Injury,14-03-2018 00:00,19.3,Vellakkal,Two Wheeler,Lorry,1,0,0,0,1,19,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+788,56,Injury,15-06-2018 00:00,11.15,Vellakkal,Two Wheeler,Car,1,0,0,0,1,27,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+789,25,Injury,26-02-2018 00:00,18,Vellakkal,Two Wheeler,Two Wheeler,1,0,0,0,1,59,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+790,20,Injury,16-02-2018 00:00,18.3,Vellakkal,Pedestrion,Bus,0,1,0,0,0,0,37,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+791,46,Injury,14-05-2018 00:00,13.3,Vellakkal,Two Wheeler,Car,1,0,0,0,1,31,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+792,17,Injury,08-02-2018 00:00,8.3,Jarugu,Two Wheeler,Two Wheeler,1,0,0,0,1,70,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+793,NA,Fatal,13-11-2018 00:00,11.3,"Toll plaza
+",Two Wheeler,Two wheeler,NA,NA,1,NA,0,NA,NA,65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+794,72,Injury,15-08-2018 00:00,19,Gengalapuram,Cyclist,Two Wheeler,1,NA,NA,NA,1,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+795,74,RA,21-08-2018 00:00,20,Anjaneyar temple,Self fall,Lorry,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+796,58,Injury,22-06-2018 00:00,1.5,Anjaneyar temple,Two Wheeler,Unknown Vechile,1,NA,NA,NA,1,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+797,15,Injury,03-02-2018 00:00,13.45,Anjaneyar temple,Auto,Lorry,2,0,0,0,2,38,30,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+798,45,Injury,14-05-2018 00:00,13.3,Kurinchi Nagar,Pedestrion,Lorry,1,0,0,0,1,48,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+799,NA,Fatal,27-09-2018 00:00,16.5,"Police Quarters
+",Two Wheeler,unknown vehicle,NA,NA,2,NA,0,NA,NA,48,52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+800,73,Injury,22-08-2018 00:00,23.5,Rajalakshmi Petrol bunk,Car,Lorry,1,NA,NA,NA,1,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+801,4,Injury,05-01-2018 00:00,19,Lakshminarayana PolyTechnic Collage,Pedestrion,Bus,0,1,0,0,0,NA,38,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+802,2,Injury,01-01-2018 00:00,1,Anjaneyar temple,Pedestrion,Lorry,2,0,0,0,2,19,25,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+803,42,Injury,07-06-2019 00:00,21.45,Adaiyar Anantha Bhavan hotel near,Two Wheeler,NA,1,NA,NA,NA,0,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+804,12,Injury,14-02-2019 00:00,15,Alamarathukottai,Two Wheeler,Two Wheeler,2,NA,NA,NA,0,36,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+805,22,Injury,08-04-2019 00:00,13,Amman Bakery,Two Wheeler,Car,1,1,NA,NA,0,47,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+806,8,Fatal,08-05-2019 00:00,11.45,Anjaneyar,Pedestrian,Lorry,NA,NA,1,NA,1,NA,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+807,10,Injury,21-02-2019 00:00,13.15,Anjaneyar,Lorry,Lorry,1,NA,NA,NA,0,36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+808,88,Fatal,14-03-2019 00:00,13,Anjaneyar,Self Fall,Lorry,NA,NA,1,NA,1,NA,NA,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+809,31,Injury,11-05-2019 00:00,6,Anjaneyar,Self Fall,Lorry,1,NA,NA,NA,0,41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+810,86,Injury,28-10-2019 00:00,18.3,Bagalahalli Ravi Rice mill,Pedestrian,Two Wheeler,1,NA,NA,NA,0,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+811,16,Injury,12-03-2019 00:00,17,"
+Thombarakampatti to
+Thathanaickanpatti",Two Wheeler,Two Wheeler,1,NA,NA,NA,0,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+812,39,Fatal,04-09-2019 00:00,15.3,Boorikkal Bus Stop,Two Wheeler,Lorry,NA,NA,1,NA,1,NA,NA,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+813,28,Injury,04-05-2019 00:00,13,"Anjaneyar
+",Lorry,Car,1,NA,NA,NA,0,48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+814,91,Injury,25-11-2019 00:00,17.5,Dhandukkarampatti,Two Wheeler,Unknown Vechile,1,NA,NA,NA,0,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+815,47,Injury,23-06-2019 00:00,7.3,Dhandukkarampatti,Two Wheeler,Two Wheeler,2,2,NA,NA,0,7,28,5,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+816,70,Fatal,28-12-2019 00:00,20,Dharmapuri to Salem,Pedestrian,Car,NA,NA,1,NA,1,NA,NA,54,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+817,34,Injury,21-05-2019 00:00,6,Ealukuli,Two Wheeler,Van,1,NA,NA,NA,0,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+818,63,Injury,25-08-2019 00:00,18.3,Easalpatti one Raj land,Two Wheeler,Two Wheeler,1,NA,NA,NA,0,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+819,1,Injury,01-01-2019 00:00,8,"Elagiri Graveyard Curve,   Elagiri to Nallampalli road
+",Two Wheeler,Bus,2,NA,NA,NA,0,36,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+820,45,Injury,13-06-2019 00:00,15.3,Ellukukli,Two Wheeler,Car,1,NA,NA,NA,0,39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+821,33,Injury,15-05-2019 00:00,11.3,Essar Petrol Bunk,Pedestrian,Van,NA,1,NA,NA,0,NA,75,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+822,82,Fatal,16-02-2019 00:00,0.15,Gengalapuram,Pedestrian,Unknown Vechile,NA,NA,1,NA,1,NA,NA,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+823,27,Injury,28-04-2019 00:00,2.15,Kattimadu Forest office near,Lorry,Lorry,1,NA,NA,NA,0,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+824,3,Injury,09-01-2019 00:00,1,Adaiyar Anantha Bhavan hotel near,Pedestrian,Unknown Vechile,1,NA,NA,NA,0,57,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+825,78,Injury,27-09-2019 00:00,18,Jarugu,Pedestrian,Two Wheeler,1,NA,NA,NA,0,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+826,58,Injury,13-08-2019 00:00,15,Jarugu,Two Wheeler,Van,1,NA,NA,NA,0,38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+827,84,Injury,08-10-2019 00:00,8.1,Kadandikuttai,Two Wheeler,Van,1,NA,NA,NA,0,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+828,57,Injury,03-08-2019 00:00,7.15,Kattamadu Jn,Two Wheeler,Tractor,1,NA,NA,NA,0,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+829,93,Injury,04-12-2019 00:00,5.45,Kattamadu Jn,Two Wheeler,Car,1,NA,NA,NA,0,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+830,6,Injury,17-01-2019 00:00,15.3,Kattamadu Jn,Passenger,Van,2,NA,NA,NA,0,50,53,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+831,49,Injury,03-07-2019 00:00,4.3,Krunchi Nagar,Lorry,Lorry,1,NA,NA,NA,0,58,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+832,44,Injury,08-06-2019 00:00,0.3,Krunchi Nagar,Passenger,Van,1,NA,NA,NA,0,41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+833,59,Injury,15-08-2019 00:00,8.45,Krunchi Nagar,Pedestrian,Car,NA,1,NA,NA,0,NA,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+834,71,Fatal,11-01-2019 00:00,11.5,Anjaneyar,Pedestrian,Lorry,NA,NA,2,NA,2,NA,NA,48,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+835,2,Injury,31-12-2019 00:00,16.45,Anjaneyar,Car,Lorry,1,1,NA,NA,0,40,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+836,11,Fatal,30-05-2019 00:00,3,Thoppur Check post,Self Fall,Lorry,NA,NA,1,NA,1,NA,NA,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+837,5,Fatal,11-04-2019 00:00,11.5,"Vellakkal
+
+",Two Wheeler,Unknown Vechile,NA,NA,1,NA,1,NA,NA,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+838,4,Injury,10-01-2019 00:00,3,"Vellakkal
+
+",Tractor,Van,1,NA,NA,NA,0,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+839,24,Injury,13-04-2019 00:00,6.3,"Vellakkal
+
+",Two Wheeler,Car,1,1,NA,NA,0,30,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+840,54,Injury,14-07-2019 00:00,20.3,Om Sakthi Nagar,Two Wheeler,Car,1,NA,NA,NA,0,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+841,51,Injury,05-07-2019 00:00,9.45,Oochimaram Bus stop,Two Wheeler,Bus,1,NA,NA,NA,0,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+842,30,Injury,10-05-2019 00:00,15.25,"Opp. of A to Z Hotel,",Two Wheeler,Car,1,NA,NA,NA,0,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+843,81,Fatal,09-02-2019 00:00,19.1,Pagalpatti JN,Pedestrian,Two Wheeler,NA,NA,1,NA,1,NA,NA,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+844,19,Fatal,25-07-2019 00:00,15.3,Pagalahalli,Pedestrian,Car,NA,NA,1,NA,1,NA,NA,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+845,14,Grives,23-02-2019 00:00,20,"Palanisamy’s agricultural land,
+Thasankottai,
+Jarugu to Samichettipatti",Two Wheeler,Two Wheeler,1,NA,NA,NA,0,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+846,35,Injury,18-05-2019 00:00,20.3,Palayampudhur,Two Wheeler,Two Wheeler,NA,1,NA,NA,0,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+847,72,Injury,16-09-2019 00:00,5.3,Palayampudhur,Pedestrian,Unknown Vechile,1,NA,NA,NA,0,47,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+848,36,Injury,25-05-2019 00:00,7.3,Palayampudhur,Pedestrian,Two Wheeler,1,NA,NA,NA,0,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+849,89,Injury,02-11-2019 00:00,9,Paraiyampallm Near,Pedestrian,Two Wheeler,1,NA,NA,NA,0,65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+850,26,Injury,18-04-2019 00:00,2.45,Thoppur Check post,Passenger,Van,4,NA,NA,NA,0,30,10,25,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+851,18,Injury,30-03-2019 00:00,6.3,"Rajalakshmi Petrol bunk,
+Thoppur,
+Dharmapuri to Salem road,
+",Lorry,Lorry,1,NA,NA,NA,0,65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+852,56,Fatal,26-10-2019 00:00,18.3,Sanisandai Bus Stop,Pedestrian,Car,NA,NA,1,NA,1,NA,NA,49,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+853,43,Injury,08-06-2019 00:00,18,Sanisandai Bus Stop,Pedestrian,Two Wheeler,1,NA,NA,NA,0,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+854,46,Injury,17-06-2019 00:00,15.5,Savulur,Pedestrian,Two Wheeler,1,NA,NA,NA,0,47,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+855,77,Injury,27-09-2019 00:00,9,Savulur,Two Wheeler,Two Wheeler,1,NA,NA,NA,0,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+856,92,Injury,26-11-2019 00:00,3.45,Savuluppatti Essar Petrol Bunk,Two Wheeler,Lorry,1,NA,NA,NA,0,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+857,9,Injury,18-02-2019 00:00,19.3,Savulur,Pedestrian,Two Wheeler,1,NA,NA,NA,0,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+858,15,Injury,04-03-2019 00:00,18.15,"Sesampatti Junction.
+Dharmapuri to Salem road
+",Auto,Unknown Vechile,1,1,NA,NA,0,54,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+859,66,Injury,07-08-2019 00:00,21,Thomarakampatti,Two Wheeler,Lorry,1,NA,NA,NA,0,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+860,87,Injury,02-11-2019 00:00,16.2,Thombarakampatti,Two Wheeler,Car,1,NA,NA,NA,0,58,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+861,13,Fatal,06-06-2019 00:00,8.15,Thoppaiyaru Dam,Two Wheeler,Two Wheeler,NA,NA,1,NA,1,NA,NA,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+862,95,Injury,23-12-2019 00:00,10,Thoppue Jn Madhiyan Hotel near,Two Wheeler,Lorry,1,NA,NA,NA,0,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+863,37,Injury,28-05-2019 00:00,5.4,Toll plaza,Car,Lorry,3,1,NA,NA,0,54,43,10,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+864,20,Fatal,29-07-2019 00:00,8,Anjaneyar,Lorry,Van,4,NA,1,NA,1,28,40,32,37,NA,19,NA,NA,NA,NA,NA,NA,NA,NA
+865,41,Injury,04-06-2019 00:00,23.3,Anjaneyar,Self Fall,Lorry,1,NA,NA,NA,0,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+866,48,Injury,22-06-2019 00:00,12.5,Anjaneyar,Self Fall,Lorry,1,NA,NA,NA,0,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+867,52,Injury,14-07-2019 00:00,13.3,Anjaneyar,Bus,Lorry,2,NA,NA,NA,0,54,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+868,38,Injury,28-05-2019 00:00,23.45,Anjaneyar,Lorry,Lorry,1,NA,NA,NA,0,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+869,60,Fatal,25-11-2019 00:00,17,Anjaneyar,Car,Lorry,1,NA,NA,3,3,39,NA,NA,46,58,70,NA,NA,NA,NA,NA,NA,NA,NA
+870,61,Injury,16-08-2019 00:00,1.15,Anjaneyar,Lorry,Lorry,1,NA,NA,NA,0,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+871,62,Injury,16-08-2019 00:00,1.25,Anjaneyar,Self Fall,Lorry,1,NA,NA,NA,0,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+872,74,Injury,20-09-2019 00:00,9,Anjaneyar,Lorry,Lorry,1,NA,NA,NA,0,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+873,90,Injury,14-11-2019 00:00,16,Anjaneyar,Two Wheeler,Lorry,1,NA,NA,NA,0,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+874,85,Injury,17-10-2019 00:00,16.5,Thoppur Check post,Two Wheeler,Van,1,NA,NA,NA,0,54,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+875,64,Fatal,17-12-2019 00:00,20.45,Thoppur Ghat Section,Unknown Four Wheeler,Lorry,NA,NA,2,NA,2,NA,NA,19,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+876,69,Fatal,25-12-2019 00:00,12.3,Thoppur Ghat Section,Two Wheeler,Lorry,NA,NA,1,NA,1,NA,NA,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+877,76,Injury,25-09-2019 00:00,10,Thoppur Ghat Section,Pedestrian,Unknown Vechile,1,NA,NA,NA,0,75,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+878,80,Injury,29-09-2019 00:00,19,Thoppur Muniyappan kovil near,Pedestrian,Two Wheeler,1,NA,NA,NA,0,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+879,65,Injury,08-08-2019 00:00,9,Thoppur Near,Self Fall,Car,1,1,NA,NA,0,29,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+880,40,Injury,03-05-2019 00:00,11,Thoppur Petrol Bunk,Lorry,Lorry,1,NA,NA,NA,0,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+881,23,Fatal,30-07-2019 00:00,6.2,Thoppur Police Quarters,Bus,Lorry,1,NA,1,NA,1,23,NA,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+882,29,Injury,09-05-2019 00:00,11.45,Thoppur Police Quarters,Lorry,Car,4,NA,NA,NA,0,43,45,51,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+883,75,Injury,23-09-2019 00:00,1,Thoppur Police Quarters,Self Fall,Car,NA,1,NA,NA,0,NA,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+884,55,Fatal,12-10-2019 00:00,7.3,Thoppur Rajalakshmi  petrol bunk,Two Wheeler,Bus,NA,NA,1,NA,1,NA,NA,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+885,94,Injury,18-12-2019 00:00,8.3,Thoppur Rajalakshmi  petrol bunk,Bus,Lorry,1,3,NA,NA,0,74,19,20,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+886,73,Fatal,23-01-2019 00:00,11,Toll plaza,Self Fall,Two Wheeler,NA,NA,1,NA,1,NA,NA,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+887,67,Injury,01-09-2019 00:00,6.2,Toll plaza,Pedestrian,Car,1,NA,NA,NA,0,65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+888,68,Injury,31-08-2019 00:00,19.45,Toll plaza,Two Wheeler,Car,1,NA,NA,NA,0,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+889,17,Injury,20-03-2019 00:00,6,Toll plaza,Two Wheeler,Lorry,1,NA,NA,NA,0,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+890,7,Injury,23-01-2019 00:00,12,Toll plaza,Tractor,Car,1,NA,NA,NA,0,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+891,32,Injury,13-05-2019 00:00,13.25,Toll plaza,Two Wheeler,Car,NA,1,NA,NA,0,NA,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+892,96,Fatal,04-04-2019 00:00,18.3,Toll plaza,Two Wheeler,Lorry,NA,NA,1,NA,1,NA,NA,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+893,25,Fatal,05-08-2019 00:00,0.1,Vellakkal,Pedestrian,Two Wheeler,1,NA,NA,2,2,50,NA,NA,47,80,NA,NA,NA,NA,NA,NA,NA,NA,NA
+894,50,Injury,02-07-2019 00:00,15.3,Vellakkal,Two Wheeler,Car,1,NA,NA,NA,0,39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+895,83,Injury,05-10-2019 00:00,19.15,Vellakkal,Pedestrian,Car,1,NA,NA,NA,0,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+896,53,Fatal,05-10-2019 00:00,23.3,Vellakkal,Pedestrian,Unknown Vechile,NA,NA,1,NA,1,NA,NA,69,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+897,79,Fatal,01-02-2019 00:00,9,Vellakkal,Two Wheeler,Bus,NA,NA,1,NA,1,NA,NA,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+898,21,Injury,06-04-2019 00:00,21,"Water Tank,
+Mel Kottavur, Gengalapuram to Elagiri 
+",Two Wheeler,Two Wheeler,1,NA,NA,NA,0,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+899,7,Injury,22-01-2020 00:00,20.55,Anjaneyar,Lorry,Lorry,2,NA,NA,NA,0,27,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+900,8,Injury,27-01-2020 00:00,23.3,Anjaneyar,Car,Lorry,2,NA,NA,NA,0,24,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+901,11,Injury,12-02-2020 00:00,7.45,Anjaneyar,Lorry,Lorry,1,NA,NA,NA,0,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902,23,Injury,02-05-2020 00:00,7.3,Anjaneyar,Self Fall,Lorry,1,NA,NA,NA,0,48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+903,27,Injury,20-05-2020 00:00,7.3,Anjaneyar,Lorry,Lorry,1,NA,NA,NA,0,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+904,28,Injury,23-05-2020 00:00,4.3,Anjaneyar,Self Fall,Lorry,2,NA,NA,NA,0,45,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+905,33,Fatal,10-06-2020 00:00,6.3,Anjaneyar,Self Fall,Lorry,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,42,NA,NA,NA,NA,NA,NA,NA
+906,36,Injury,19-06-2020 00:00,14.1,Anjaneyar,Self Fall,Lorry,2,NA,NA,NA,0,40,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+907,41,Fatal,20-07-2020 00:00,17.3,Anjaneyar,Self Fall,Lorry,1,NA,1,NA,1,27,NA,NA,NA,NA,NA,27,NA,NA,NA,NA,NA,NA,NA
+908,42,Fatal,21-07-2020 00:00,21.3,Anjaneyar,Two Wheeler,Lorry,NA,NA,4,NA,4,NA,NA,NA,NA,NA,NA,68,52,29,55,NA,NA,NA,NA
+909,75,Injury,22-11-2020 00:00,13,Anjaneyar,Lorry,Lorry,3,NA,NA,NA,0,40,45,48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+910,68,Grives,29-10-2020 00:00,21.3,Anjaneyar,Two Wheeler,Lorry,1,NA,NA,NA,0,36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+911,58,Fatal,04-09-2020 00:00,5,Anjaneyar,Lorry,Lorry,1,NA,1,NA,1,24,NA,NA,NA,NA,NA,23,NA,NA,NA,NA,NA,NA,NA
+912,80,Injury,09-12-2020 00:00,11,Anjaneyar,Self Fall,Lorry,2,NA,NA,NA,0,19,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+913,71,Injury,13-11-2020 00:00,1.3,Anjaneyar,Passenger,Lorry,1,NA,NA,NA,0,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cleaned
+914,47,Injury,06-08-2020 00:00,6.15,Anjaneyar,Self Fall,Lorry,1,NA,NA,NA,0,44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+915,48,Injury,07-08-2020 00:00,2.45,Anjaneyar,Self Fall,Lorry,2,NA,NA,NA,0,21,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+916,44,Injury,27-07-2020 00:00,4,Anjaneyar,Self Fall,Lorry,2,NA,NA,NA,0,39,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+917,43,Injury,27-07-2020 00:00,5.45,Anjaneyar,Two Wheeler,Lorry,1,1,NA,NA,0,41,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+918,78,Injury,02-12-2020 00:00,12,Anjaneyar,Car,Lorry,1,NA,NA,NA,0,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+919,65,Injury,23-09-2020 00:00,1.45,Anjaneyar,Passenger,Lorry,1,NA,NA,NA,0,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+920,9,Fatal,05-02-2020 00:00,7.45,Commercial Check post Thoppur,Lorry,Car,NA,1,NA,1,1,NA,NA,11,NA,NA,NA,NA,63,NA,NA,NA,NA,NA,NA
+921,53,Fatal,22-08-2020 00:00,4.3,Commerical Check post Thoppur,Pedestrian,Van,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,80,NA,NA,NA,NA,NA,NA,NA
+922,26,Injury,18-05-2020 00:00,16.45,Eakajykue Complainant HouseNear,Unknown Vehicle,Lorry,NA,2,NA,NA,0,NA,NA,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+923,14,Fatal,26-02-2020 00:00,3.45,Gangalapuram,Lorry,Unknown Four Wheeler,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,40,NA,NA,NA,NA,NA,NA,NA
+924,6,Injury,15-01-2020 00:00,16.3,Gedduppatti,Two Wheeler,Car,1,NA,NA,NA,0,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+925,3,Injury,10-01-2020 00:00,9,Gengalapuram,Two Wheeler,Tractor,1,NA,NA,NA,0,41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+926,66,Injury,01-10-2020 00:00,14.3,Gengalapuram,Two Wheeler,Lorry,1,NA,NA,NA,0,64,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+927,67,Injury,07-10-2020 00:00,12.3,Gengalapuram,Cyclist,Lorry,1,NA,NA,NA,0,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+928,20,Injury,01-12-2020 00:00,18.3,Gurupattiyankottai,Pedestrian,Two Wheeler,NA,2,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+929,57,Injury,30-08-2020 00:00,9.1,Jergu Wine Shop Near,Two Wheeler,Two Wheeler,2,NA,NA,NA,0,42,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+930,34,Injury,03-06-2020 00:00,3,Kattimadu Forest office near,Lorry,Lorry,1,NA,NA,NA,0,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+931,69,Injury,08-11-2020 00:00,9,Kettupatti road Murali kolikadai near,Self Fall,Two Wheeler,1,NA,NA,NA,0,72,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+932,52,Injury,10-08-2020 00:00,12.3,Kombukuttai Raja house near,Pedestrian,Two Wheeler,NA,1,NA,NA,0,NA,NA,65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+933,17,Injury,07-03-2020 00:00,19,Krunchi nagar,Pedestrian,Car,1,NA,NA,NA,0,48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+934,63,Injury,22-09-2020 00:00,19.45,Krunchi nagar,Pedestrian,Two Wheeler,1,1,NA,NA,0,37,NA,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+935,39,Injury,13-07-2020 00:00,23,Laxhmi Narayana College,Pedestrian,Car,1,NA,NA,NA,0,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+936,22,Injury,28-03-2020 00:00,9,"Malaiyappa Nagar, Pasumaineearkuttai Near",Two Wheeler,Van,1,NA,NA,NA,0,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+937,49,Injury,02-08-2020 00:00,16.3,Mattukaranoor,Two Wheeler,Lorry,1,NA,NA,NA,0,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+938,21,Injury,16-03-2020 00:00,14,Pagalahalli,Two Wheeler,Two Wheeler,2,1,NA,NA,0,35,20,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+939,51,Injury,06-08-2020 00:00,0.5,Pagalpatti JN,Self Fall,Two Wheeler,1,NA,NA,NA,0,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+940,18,Injury,07-03-2020 00:00,21.2,Toll plaza,Lorry,Two Wheeler,1,NA,NA,NA,0,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+941,13,Injury,17-02-2020 00:00,12.3,Palayampudur,Two Wheeler,Two Wheeler,1,NA,NA,NA,0,48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+942,19,Fatal,12-03-2020 00:00,20.3,Palayampudur,Two Wheeler,Lorry,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,28,NA,NA,NA,NA,NA,NA,NA
+943,4,Injury,10-01-2020 00:00,20,Palayampudur,Two Wheeler,Car,NA,1,NA,NA,0,NA,NA,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+944,70,Injury,11-11-2020 00:00,8.3,Palayampudur,Two Wheeler,Two Wheeler,1,1,NA,NA,0,35,NA,38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+945,2,Injury,30-12-2019 00:00,17.3,Palayampudur,Two Wheeler,Unknown Vechile,1,NA,NA,NA,0,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+946,55,Injury,27-08-2020 00:00,7.15,Papeirediyur Road,Two Wheeler,Two Wheeler,1,NA,NA,NA,0,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+947,32,Fatal,09-06-2020 00:00,17,Papeirediyur Road,Two Wheeler,Car,1,NA,1,NA,1,58,NA,NA,NA,NA,NA,52,NA,NA,NA,NA,NA,NA,NA
+948,61,Grives,14-09-2020 00:00,17.45,Poorikal  Jn Road,Two Wheeler,Two Wheeler,1,NA,NA,NA,0,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+949,84,Injury,25-12-2020 00:00,19.3,Samisettipatti Jn Road,Pedestrian,Car,1,NA,NA,NA,0,36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+950,59,Fatal,11-09-2020 00:00,19.45,Sanisandai Bus Stop,Pedestrian,Car,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,45,NA,NA,NA,NA,NA,NA,NA
+951,76,Injury,21-11-2020 00:00,20,Savulur,Two Wheeler,Un Known Vechile,1,NA,NA,NA,0,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+952,16,Fatal,08-03-2020 00:00,8,Savulur,Pedestrian,Two Wheeler,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,65,NA,NA,NA,NA,NA,NA
+953,10,Injury,09-02-2020 00:00,4.3,Serways Hotal Privu,Pedestrian,Lorry,2,NA,NA,NA,0,55,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+954,54,Injury,25-08-2020 00:00,6.45,Thombarakampatti,Pedestrian,Lorry,1,NA,NA,NA,0,48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+955,83,Injury,11-12-2020 00:00,16,Thombarakampatti,Two Wheeler,Two Wheeler,1,NA,NA,NA,0,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+956,1,Injury,30-12-2019 00:00,16.3,Thombarakampatti,Two Wheeler,Two Wheeler,1,1,NA,NA,0,37,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+957,37,Injury,19-06-2020 00:00,7.1,Thombarakampatti,Two Wheeler,Car,1,NA,NA,NA,0,57,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+958,29,Fatal,21-05-2020 00:00,12,Thombarakampatti,Two Wheeler,Van,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,60,NA,NA,NA,NA,NA,NA,NA
+959,35,Injury,17-06-2020 00:00,1.45,Thombarakampatti,Two Wheeler,Un Known Vechile,1,NA,NA,NA,0,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+960,62,Fatal,20-09-2020 00:00,17.45,Thombarakampatti,Self Fall,Van,2,NA,1,NA,1,21,22,NA,NA,NA,NA,25,NA,NA,NA,NA,NA,NA,NA
+961,40,Injury,17-07-2020 00:00,20,Thoppur Check post,Lorry,Lorry,1,NA,NA,NA,0,47,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+962,25,Injury,17-05-2020 00:00,8.3,Thoppur Check post,Two Wheeler,Lorry,1,1,NA,NA,0,55,NA,44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+963,45,Injury,30-07-2020 00:00,7.4,Thoppur Check post,Lorry,Lorry,2,NA,NA,NA,0,37,57,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+964,50,Injury,06-08-2020 00:00,15,Thoppur Check post,Two Wheeler,Lorry,1,NA,NA,NA,0,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+965,60,Grives,06-09-2020 00:00,22,Thoppur Check post,Two Wheeler,Lorry,1,NA,NA,NA,0,39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+966,82,Fatal,12-12-2020 00:00,15,Thoppur Double Bridge,Car,Lorry,1,NA,4,NA,4,30,NA,NA,NA,NA,NA,34,35,40,41,NA,NA,NA,NA
+967,72,Injury,17-11-2020 00:00,13,Thoppur HP Petrol Bunk,Two Wheeler,Two Wheeler,1,NA,NA,NA,0,38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+968,81,Injury,02-12-2020 00:00,15,Thoppur kattamadu near,Four Wheeler,Lorry,1,NA,NA,NA,0,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+969,5,Injury,13-01-2020 00:00,2.3,Thoppur Kurunch Nagar Lorry Parking near,Lorry,Bus,2,NA,NA,NA,0,27,NA,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+970,77,Fatal,13-11-2020 00:00,7,Thoppur Nathiya Hotel near,Two Wheeler,Lorry,2,NA,2,NA,2,27,32,NA,NA,NA,NA,27,36,NA,NA,NA,NA,NA,NA
+971,38,Injury,07-07-2020 00:00,8.3,Thoppur Palam Near,Two Wheeler,Car,1,2,NA,NA,0,40,13,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+972,74,Injury,20-11-2020 00:00,10,Thoppur Police Quarters,Two Wheeler,Car,2,NA,NA,NA,0,25,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+973,46,Fatal,04-08-2020 00:00,10,Thoppur Police Quarters,Two Wheeler,Van,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,25,NA,NA,NA,NA,NA,NA,NA
+974,15,Fatal,01-03-2020 00:00,12,Thoppur Police Quarters,Pedestrian,Van,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,70,NA,NA,NA,NA,NA,NA,NA
+975,85,Injury,31-12-2020 00:00,3,Thoppur Rajalakshmi Petrol Bunk near,Lorry,Lorry,4,2,NA,NA,0,30,32,23,28,35,42,NA,NA,NA,NA,NA,NA,NA,NA
+976,30,Injury,25-05-2020 00:00,18.3,Thpoour PS Police Quarters Opposite,Two Wheeler,Two Wheeler,2,NA,NA,NA,0,35,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+977,64,Injury,28-09-2020 00:00,18.3,Unknown,Two Wheeler,Tractor,1,NA,NA,NA,0,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+978,79,Injury,03-12-2020 00:00,19.3,Vellakkal,Pedestrian,Bus,2,NA,NA,NA,0,45,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+979,12,Injury,10-02-2020 00:00,17.05,Vellakkal,Car,Two Wheeler,2,NA,NA,NA,0,21,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+980,24,Fatal,08-05-2020 00:00,3.45,Vellakkal,Lorry,Lorry,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,28,NA,NA,NA,NA,NA,NA,NA
+981,73,Injury,15-11-2020 00:00,7.3,Vellakkal,Two Wheeler,Two Wheeler,1,NA,NA,NA,0,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+982,31,Injury,02-06-2020 00:00,20,Vellakkal,Two Wheeler,Lorry,1,NA,NA,NA,0,56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+983,56,Fatal,31-08-2020 00:00,18.3,Vellakkal,Two Wheeler,Two Wheeler,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,45,NA,NA,NA,NA,NA,NA,NA
+984,21,Injury,18-04-2021 00:00,14,A2B Hotel Classic Polo Show Room Near,Two Wheeler,Two Wheeler,1,NA,NA,NA,0,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+985,11,Injury,03-02-2021 00:00,18.3,Aanaikundu,Two Wheeler,Lorry,1,NA,NA,NA,0,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+986,35,Fatal,20-06-2021 00:00,5.45,Anjaneyar,Self Fall,Lorry,NA,NA,1,NA,1,NA,NA,NA,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+987,32,Injury,05-05-2021 00:00,1,Anjaneyar,Lorry,Lorry,1,NA,NA,NA,0,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+988,22,Fatal,22-04-2021 00:00,1,Anjaneyar,Lorry,Lorry,NA,NA,1,NA,1,NA,NA,NA,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+989,15,Fatal,07-03-2021 00:00,23.55,Anjaneyar,Self Fall,Lorry,3,NA,1,NA,1,24,24,26,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+990,2,Injury,06-01-2021 00:00,11.3,Anjaneyar,Two Wheeler,Lorry,1,NA,NA,NA,0,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+991,18,Injury,11-04-2021 00:00,11.5,Double Bridge,Car,Lorry,1,NA,NA,NA,0,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+992,34,Fatal,17-06-2021 00:00,16,Double Bridge,Two Wheeler,Lorry,2,NA,3,NA,3,27,39,NA,30,33,35,NA,NA,NA,NA,NA,NA,NA,NA
+993,8,Injury,10-02-2021 00:00,20.15,Double Bridge,Self Fall,Two Wheeler,1,NA,NA,NA,0,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+994,36,Injury,25-06-2021 00:00,14.3,Eriumiyapattiankottai To Kamalanatham,Two Wheeler,Lorry,1,NA,NA,NA,0,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+995,17,Fatal,24-03-2021 00:00,14,Gengalapuram,Two Wheeler,Lorry,NA,NA,1,NA,1,NA,NA,NA,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+996,26,Injury,13-04-2021 00:00,13.3,Gengalapuram,Cyclist,Two Wheeler,1,NA,NA,NA,0,38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+997,30,Injury,29-04-2021 00:00,22.45,Jarugu,Two Wheeler,Auto,1,NA,NA,NA,0,46,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+998,7,Injury,31-01-2021 00:00,11.3,Katamadu,Two Wheeler,Car,1,NA,NA,NA,0,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+999,33,Fatal,16-06-2021 00:00,0.3,Kattamdur,Self Fall,Lorry,NA,NA,1,NA,1,NA,NA,NA,52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1000,23,Fatal,22-04-2021 00:00,13.4,Odapallam,Self Fall,Four Wheeler,NA,NA,1,NA,1,NA,NA,NA,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1001,12,Injury,24-02-2021 00:00,15,Oothupallam,Two Wheeler,Car,1,NA,NA,NA,0,48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1002,28,Fatal,22-04-2021 00:00,13.4,Oothupallam,Self Fall,Four Wheeler,NA,NA,1,NA,1,NA,NA,NA,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1003,20,Injury,17-04-2021 00:00,9,Rettai Palam,Lorry,Lorry,1,NA,NA,NA,0,62,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1004,3,Injury,07-01-2021 00:00,11.3,Salem Main Road,Lorry,Lorry,2,NA,NA,NA,0,26,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1005,9,Injury,11-02-2021 00:00,17.3,Sekkarapatti,Two Wheeler,Bus,2,NA,NA,NA,0,20,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1006,25,Injury,01-04-2021 00:00,17.45,T. Pudhur,Pedestrian,Lorry,NA,1,NA,NA,0,NA,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1007,4,Injury,18-01-2021 00:00,15.45,T. Pudhur,Pedestrian,Car,1,NA,NA,NA,0,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1008,13,Injury,01-03-2021 00:00,19.3,T. Pudhur,Pedestrian,Bus,1,NA,NA,NA,0,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1009,16,Injury,29-03-2021 00:00,19,T.Pudhur,Pedestrian,Two Wheeler,1,2,NA,NA,0,33,NA,57,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1010,29,Fatal,09-05-2021 00:00,11.45,Thomparagampatti,Two Wheeler,Lorry,NA,NA,2,NA,2,NA,NA,NA,29,28,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1011,27,Injury,04-04-2021 00:00,8.3,Thoppur,Two Wheeler,Car,1,NA,NA,NA,0,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1012,6,Injury,27-01-2021 00:00,21,Thoppur,Lorry,Loorry,NA,1,NA,NA,0,NA,NA,39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1013,14,Injury,14-03-2021 00:00,23.3,Thoppur  Forest,Lorry,Unknown Vehicle,1,NA,NA,NA,0,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1014,19,Injury,17-04-2021 00:00,16,Thoppur Jn,Two Wheeler,Lorry,1,NA,NA,NA,0,47,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1015,31,Injury,03-05-2021 00:00,14.4,Toll Gate,Two Wheeler,Lorry,NA,1,NA,NA,0,NA,NA,53,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1016,24,Injury,01-04-2021 00:00,9.3,Tollgate,Two Wheeler,Jcb,1,NA,NA,NA,0,67,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1017,1,Injury,05-01-2021 00:00,20.3,Ummiyampatti Road,Two Wheeler,Two Wheeler,1,1,NA,NA,0,39,NA,33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1018,10,Injury,14-02-2021 00:00,7.45,Vellakkal,Two Wheeler,Fixed Object,2,NA,NA,NA,0,20,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1019,5,Injury,25-01-2021 00:00,15.3,Vellakkal,Self Fall,Two Wheeler,1,NA,NA,NA,0,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
